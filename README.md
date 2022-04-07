@@ -1,5 +1,9 @@
 # Thomas does scout stuff
 
+* [Scout Rank Requirements](./01-Scout.md)
+* [Tenderfoot Rank Requirements](./02-Tenderfoot.md)
+* [Second Class Rank Requirements](./03-Second-Class.md)
+* [First Class Rank Requirements](./04-First-Class.md)
 
 ## About this project
 I want to go through the process of going through the BSA rank requirements. The primary motivations are to expand my knowledge of basic outdoor skills, and to organize my free time and energy into a larger project that lets me improve myself and help others.  
