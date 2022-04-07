@@ -75,9 +75,19 @@
 	•	Back-saver sit-and-reach (Record the distance stretched)			
 	•	1 mile walk/run	(Record the time)		
 ```	
+* ✅ 4/7/2022  
+
+| Push-ups  | Sit-Ups    |  Mile Run |  Stretch |
+|-----------|------------|-----------|----------|
+| 17        |    14      |     7:07  | -11.5 in |
 ```
 6b	Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days.
 ```
+Plan:
+
+On at least 25 days, practice sit-ups, push-ups, and stretching.
+
+On at least 5 days, repeat the 1-mile run.
 
 ```						
 6c	Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.		
