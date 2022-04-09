@@ -146,12 +146,16 @@ In my individual experience, there is only one kind of patrol: me acting alone, 
 ```
 3b. Become familiar with your patrol name, emblem, flag, and yell. Explain how these items create patrol spirit.
 ```
+* ✅ 4/9/2022  
 
 **Patrol Name**: Lone Wolf Patrol
 
-**Emblem**:
+**Emblem**:  
+![Emblem](./media/images/scout-3b-emblem.png)
 
-**Flag**:
+**Flag**:  
+![Flag](./media/images/scout-3b-flag.png)
+
 
 **Yell**: A wolf howl: "Ah-wooooooo!"
 
