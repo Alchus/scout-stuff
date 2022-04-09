@@ -23,10 +23,12 @@ The Slogan, "Do a good turn daily," is a framework for putting the virtues Scout
 ```
 1b. Explain what Scout spirit is. Describe some ways you have shown Scout spirit by practicing the Scout Oath, Scout Law, Scout motto, and Scout slogan.
 ```
+* ✅ 4/9/2022  
 
 Scout Spirit is living by the Scout Law, Oath, motto, and slogan in one's daily life.
 
-*To do: focus on living with Scout Spirit*
+I regularly pick up litter, trash, and abandoned dog waste when I go on hikes or walk through the park by my house. This small effort is an investment into the natural environment and to community that enjoys the public park.  
+
 
 ```
 1c. Demonstrate the Boy Scout sign, salute, and handshake. Explain when they should be used.
@@ -112,6 +114,8 @@ Youth Scout troops are organized into patrols, each with a leader. The Troop as 
 
 *I don't plan to have anything formal as a review process, except perhaps having my dad (former assistant scoutmaster) and/or brother (Eagle Scout) look through it. Hopefully, these publicly-available checklist pages serve as a kind of self-documenting review process and enable anyone to understand what I'm doing.*
 
+*I'm certainly not seeking recognition for any ranks for which I complete the requirements. To seek such recognition would be inappropriate and against the purpose of Scouting as a __youth__ organization.*
+
 ```
 2c. Describe what the Boy Scout ranks are and how they are earned.
 ```
@@ -165,10 +169,43 @@ In my individual experience, there is only one kind of patrol: me acting alone, 
 ```
 4a. Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used.
 ```
+* ✅ 4/9/2022 
+
+**Square Knot**  
+A square knot is used to secure two ends of the same rope around an object, such as a package.   
+It is not suited for joining the ends of two different ropes; bends such as the figure-eight bend (for ropes) or overhand bend (for flat webbing) are better for that purpose. 
+
+![Square Knot](./media/images/scout-4a-square-knot.jpg)
+
+**Two Half Hitches**
+
+Two half hitches are used to attach an end of a rope to an object such as a post or ring. In some situations it may be easier to tie than the comparable clove hitch, especially around large objects. Unlike loops, hitches compress the object they're tied around, making them useful in tying together bundled items. When the rope and knot must take a significant or safety-critical load, a loop, such as a figure-eight loop or bowline, is preferred.
+
+![Two Half Hitches](./media/images/scout-4a-two-half-hitches.jpg)
+
+
+**Taut-line hitch**  
+
+Taut-line hitches are used for loops that will stand under some tension but may need to be adjusted. The common use for this hitch is to manage tension between tent fabrics and ground stakes.
+
+![Taut Line Hitch](./media/images/scout-4a-taut-line-hitch.jpg)
+
 
 ```
 4b. Show the proper care of a rope by learning how to whip and fuse the ends of different kinds of rope.
 ```
+* ✅ 4/9/2022 
+
+**Whipping**  
+
+Whipping is used on twisted-fiber organic ropes, but I've demonstrated the technique on this braided-sheath synthetic rope.
+
+![Whipping](./media/images/scout-4b-rope-whipping.jpg)
+
+**Fusing**
+
+
+![Fused rope](./media/images/scout-4b-fused.jpg)
 
 ```
 5	Demonstrate your knowledge of pocketknife safety.
@@ -202,4 +239,3 @@ In my individual experience, there is only one kind of patrol: me acting alone, 
 ```
 7	Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
 ```
-

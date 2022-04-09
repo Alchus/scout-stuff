@@ -1,4 +1,4 @@
-# Thomas does scout stuff
+# Thomas does Scout stuff
 
 * [Scout Rank Requirements](./01-Scout.md)
 * [Tenderfoot Rank Requirements](./02-Tenderfoot.md)
@@ -8,7 +8,7 @@
 ## About this project
 I want to go through the process of going through the BSA rank requirements. The primary motivations are to expand my knowledge of basic outdoor skills, and to organize my free time and energy into a larger project that lets me improve myself and help others.  
 
-I explicitly do not want to have something to brag about, or to claim that I have earned any scouting rank. The goal is the experience, not the rank.  
+I explicitly do not want to claim or be recognized for earning any BSA rank; it would be inappropriate and contrary to the youth development goals of the Scouting organization for me to seek such recognition. The reason for using the BSA curriculum is simply to use a well-tested structure for my own experience.
 
 ## Going Solo
 
@@ -20,7 +20,7 @@ For example, a solo camping trip or hike can count as a "troop activity". For kn
 
 I acknowledge that the value of demonstrating knowledge and skills in a group setting comes from the opportunity for correction from someone more experienced. To avoid gaps due to ignorance, I will learn from at least two sources (e.g. handbook + 1 other source) for each item, and document what that source was.  
 
-For requirements that are essentially tied to leadership, scouting or group activity, I can fill them by participating in other groups of adults where that is feasible, by doing something myself, or a combination of the two.  
+For requirements that are essentially tied to scouting or group activity, I can fill them by participating in other groups of adults where that is feasible, by doing something myself, or a combination of the two. 
 
 Requirements that are simply more inconvenient for an individual adult still apply, to the greatest extent that accomplishing them is feasible. For example, participating in a group flag ceremony may be infeasible for an individual, but attending a flag ceremony is feasible, even if inconvenient.  
 

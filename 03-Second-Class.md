@@ -39,6 +39,8 @@
 2g	Demonstrate tying the bowline knot. Describe a situation in which you would use this knot.	
 ```
 
+![Bowline](./media/images/second-class-2g-bowline.jpg)
+
 ##	NAVIGATION 
 ```
 3a	Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols.	

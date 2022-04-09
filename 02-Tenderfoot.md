@@ -56,6 +56,8 @@
 ```
 4d	Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used.
 ```
+![First Aid Kit](./media/images/tenderfoot-4d-first-aid-kit.jpg)
+
 ##	Hiking
 ```
 5a	Explain the importance of the buddy system as it relates to your personal safety on outings and in your neighborhood. Use the buddy system while on a troop or patrol outing.
