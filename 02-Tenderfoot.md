@@ -85,7 +85,7 @@
 ```
 Plan:
 
-On at least 25 days, practice sit-ups, push-ups, and stretching.
+On at least 30 days, practice sit-ups, push-ups, and stretching.
 
 On at least 5 days, repeat the 1-mile run.
 
