@@ -239,3 +239,8 @@ Whipping is used on twisted-fiber organic ropes, but I've demonstrated the techn
 ```
 7	Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
 ```
+
+* ✅ 4/9/2022  
+
+I talked to my dad about this project. He thinks it's cool, and particularly endorses the first aid and navigation skills.
+

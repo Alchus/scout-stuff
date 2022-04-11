@@ -91,6 +91,8 @@ On at least 30 days, practice sit-ups, push-ups, and stretching.
 
 On at least 5 days, repeat the 1-mile run.
 
+See [this sheet](./physical-activity/Tenderfoot.md) for details.
+
 ```						
 6c	Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.		
   ```

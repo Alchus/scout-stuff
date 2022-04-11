@@ -32,3 +32,6 @@ As in scouting, nothing done before joining the troop counts. For me, nothing I'
 ## Timeline and Progress
 
 - April 7 2022 - Started project
+- April 9 2022 - Finished Scout requirements
+
+*There aren't a lot of outdoor skills taught in the Scout requirements; it's mostly an introduction to scouting as an organization, and its goals and principles. I didn't know the difference between a clove hitch and two half hitches (a clove hitch wraps the anchor twice), and I had forgotten how to tie a taut-line hitch.*
