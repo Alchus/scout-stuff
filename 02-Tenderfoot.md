@@ -50,13 +50,63 @@
 ```
 4b	Describe common poisonous or hazardous plants, identify any that grow in your local area or campsite location. Tell how to treat for exposure to them.
 ```
+* ✅ 4/11/2022  
+
+**Poison Ivy**  
+*Toxicodendron radicans*
+ 
+ Poison ivy is a vine that secretes the irritant chemical urushiol, which can cause skin rashes. Poison ivy typically has three leaves, each in the shape of a pointed oval with several "thumbs." 
+ 
+
+ ![Poison Ivy](./media/images/tenderfoot-4b-poison-ivy.jpg)  
+
+**Poison Oak**  
+*Toxicodendron diversilobum*
+ 
+ Like poison ivy, poison oak secretes urushiol and can cause rashes. It also grows with leaves in clusters of three, and the leaves typically have "thumbs" that are more rounded than those of poison ivy.
+ 
+ [Reference](https://thenaturecollective.org/plant-guide/details/poison-oak/)
+
+ ![Poison Oak](./media/images/tenderfoot-4b-poison-oak.webp)
+
+**Poison Sumac**  
+*Toxicodendron vernix*
+ 
+ Like poison ivy and poison oak, poison oak secretes urushiol and can cause rashes. It has leaves with 7-13 leaflets, each in the shape of a smooth oval with a pointed tip; the color can vary by season.
+ 
+ [Reference](https://www.thespruce.com/poison-sumac-pictures-4071931)
+
+ ![Poison Sumac](./media/images/tenderfoot-4b-poison-sumac.webp)
+
+**Treatment**
+
+For all three of these plants, the primary treatment is to wash off the irritant compound from the skin with soap and water. 
+
+Topical corticosteroids (e.g. Cortisone) can be used to treat the allergic contact dermatitis caused by urushiol exposure.
+
+[Reference](https://wa.kaiserpermanente.org/kbase/topic.jhtml?docId=hw74927&secId=hw74927-sec)
+
 ```
 4c	Tell what you can do on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b.
 ```
 ```
 4d	Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used.
 ```
+* ✅ 4/11/2022
+
+
 ![First Aid Kit](./media/images/tenderfoot-4d-first-aid-kit.jpg)
+
+This is an ultra-light first aid kid designed primarily for day hikes or one-night backpacking camping.
+
+* Band-aids: for cuts, scrapes, and blisters  
+* Alcohol prep pads: for cleaning wounds before bandaging.
+* Neosporin: topical antibiotic ointment for preventing wound infection. 
+* Tweezers: for removing thorns or ticks, etc.
+* Ibuprofen: multi-purpose anti-inflamatory. Helps manage aches and pains.
+* Bleed-stop: Coagulant powder to help staunch bleeding of major wounds.
+
+*The earplugs and floss picks are not first-aid items, but I keep them with my first-aid supplies*
 
 ##	Hiking
 ```
@@ -101,9 +151,13 @@ See [this sheet](./physical-activity/Tenderfoot.md) for details.
 ```
 7a	Demonstrate how to display, raise, lower, and fold the U.S. flag.
 ```
+
+
 ```
 7b	Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto.
 ```
+
+
 ## Leadership
 ```
 8	Describe the steps in Scouting's Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot.

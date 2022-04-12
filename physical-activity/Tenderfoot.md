@@ -23,7 +23,7 @@ On 30 days:
 | April 8 2022  | 17        |    12      |    ✓     |
 | April 9 2022  | 19        |    9       |    ✓     |
 | April 10 2022 | 15        |    18*     |    ✓     |
-| April 11 2022 |           |            |          |
+| April 11 2022 | 19        |*Crunches only*| ✓     |
 | April 12 2022 |           |            |          |
 | April 13 2022 |           |            |          |
 | April 14 2022 |           |            |          |
