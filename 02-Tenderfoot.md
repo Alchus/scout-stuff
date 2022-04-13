@@ -112,12 +112,34 @@ This is an ultra-light first aid kid designed primarily for day hikes or one-nig
 ```
 5a	Explain the importance of the buddy system as it relates to your personal safety on outings and in your neighborhood. Use the buddy system while on a troop or patrol outing.
 ```
+
+Hiking, espicially in back country, has some risk of injury. When hiking alone, I don't have anyone to assist or seek help if I am injured.
+
+On April 10, I hiked in a group of 3; we stayed together as a group, in part to assist Alejandro with the difficult terrain.
+
 ```
 5b	Explain what to do if you become lost on a hike or campout.
 ```
+
+* **S**tay Calm  
+* **T**hink - recall the route, consult map & compass
+* **O**bserve - Look for footprints, landmarks, trail markers, etc.
+* **P**lan - if moving on is a the best option, do so carefully to avoid getting further lost. Mark the path to allow backtracking.
 ```
 5c	Explain the rules of safe hiking, both on the highway and cross-country, during the day and at night.
 ```
+***Backcountry**
+* Step carefully
+* Watch for animals
+* Have adequate water and other supplies
+* Avoid crossing deep or fast-moving water
+* Don't get lost
+
+**Roads** 
+* Walk so that you can see oncoming traffic
+* Be visible at night with light clothing and a flashlight.
+
+
 
 ## Fitness
 ```
