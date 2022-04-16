@@ -8,6 +8,7 @@
 ```
 1b.	Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch.
 ```
+
 ```
 1c	Tell how you practiced the Outdoor Code on a campout or outing.
 ```
@@ -47,6 +48,39 @@
 	Frostbite and sunburn
 	Choking
 ```
+* ✅ 4/14/2022
+
+**Cuts and scrapes**  
+Wash with soap and water; apply topical antibiotic and cover with a sterile bandage. *p.125*
+
+**Blisters**  
+Cover with moleskin or a bandage. Don't pop blisters unless necessary; but if they do pop, wash and treat like a minor cut: topical antibiotic and sterile bandage. *p.126*
+
+**Minor burns and sunburns**  
+Cover with cool water, but not ice. Treat with aloe vera. For sunburns, avoid further sun exposure *p.137*
+
+**Insect Bites**  
+* **Ticks**: Use tweezers to remove the tick, grabbing close to the skin. Then, wash with soap and water; apply antiseptic.
+* **Chiggers**: Scrub with soap and water. Apply calamine lotion or hydrocortisone cream to relieve itching.
+* **Spiders**: Wash the bite with soap and water. If there is significant swelling or other adverse reactions, ice the swelled area and seek immediate medical attention. 
+* **Bee & Wasp Stings**: Remove the stinger by scraping it off; not with tweezers. Ice may help pain and swelling. Watch for signs of anaphylactic shock. *pp.131-132*
+
+**Venomous Snakebite**  
+Gently wash the wound site. Restrict movement of the affected limb; minimize movement as much as possible. Seek immediate emergency medical care; carry the victim if possible if relocation is required to reach medical care. Keep everyone calm and watch for signs of shock.
+
+**Nosebleed**  
+Firmly pinch the bridge of the nose and press the upper lip. If bleeding continues for more than 15 minutes, seek medical attention.
+
+
+**Frostbite**  
+Re-warm the affected area and prevent further exposure. Rather than using open flame for warmth, heat water instead. If fingers or toes are affected, separate them with gauze before bandaging. For serious cases, get medical help. *p.140*
+
+**Choking**  
+If the person is conscious, lean them over and hit them between the shoulder blades several times. If that doesn't work, stand behind them and perform several abdominal thrusts.
+
+For an unconscious victim, check for an object in the mouth and remove it if found. Alternate 30 chest compressions and 2 rescue breaths until help arrives or breathing is restored. *p.121*
+
+
 ```
 4b	Describe common poisonous or hazardous plants, identify any that grow in your local area or campsite location. Tell how to treat for exposure to them.
 ```
@@ -112,6 +146,7 @@ This is an ultra-light first aid kid designed primarily for day hikes or one-nig
 ```
 5a	Explain the importance of the buddy system as it relates to your personal safety on outings and in your neighborhood. Use the buddy system while on a troop or patrol outing.
 ```
+* ✅ 4/12/2022  
 
 Hiking, espicially in back country, has some risk of injury. When hiking alone, I don't have anyone to assist or seek help if I am injured.
 
@@ -120,15 +155,20 @@ On April 10, I hiked in a group of 3; we stayed together as a group, in part to 
 ```
 5b	Explain what to do if you become lost on a hike or campout.
 ```
+* ✅ 4/12/2022  
 
-* **S**tay Calm  
-* **T**hink - recall the route, consult map & compass
-* **O**bserve - Look for footprints, landmarks, trail markers, etc.
-* **P**lan - if moving on is a the best option, do so carefully to avoid getting further lost. Mark the path to allow backtracking.
+
+	* **S**tay Calm  
+	* **T**hink - recall the route, consult map & compass
+	* **O**bserve - Look for footprints, landmarks, trail markers, etc.
+	* **P**lan - if moving on is a the best option, do so carefully to avoid getting further lost. Mark the path to allow backtracking.
 ```
 5c	Explain the rules of safe hiking, both on the highway and cross-country, during the day and at night.
 ```
-***Backcountry**
+
+* ✅ 4/12/2022  
+
+**Backcountry**
 * Step carefully
 * Watch for animals
 * Have adequate water and other supplies
@@ -184,13 +224,23 @@ See [this sheet](./physical-activity/Tenderfoot.md) for details.
 ```
 8	Describe the steps in Scouting's Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot.
 ```
+
+**Explain** what you will teach and talk through the steps .  
+**Demonstrate** the skill and explain again.  
+**Guide** the learner as they attempt the skill themselves one or more times.  
+**Enable** the learner to use the skill successfully on their own.
+
+
+
 ## Scout Spirit
 ```
 9	Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life.
 ```
+
 ```
 10	While working toward Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.
 ```
+
 ```
 11	Successfully complete your board of review for the Tenderfoot rank.
 ```

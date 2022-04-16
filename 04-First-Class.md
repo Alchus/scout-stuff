@@ -105,12 +105,15 @@
 ```
 9a	Visit and discuss with a selected individual approved by your leader (for example, an elected official, judge, attorney, civil servant, principal, or teacher) the constitutional rights and obligations of a U.S. citizen.
 ```
+
 ```
 9b	Investigate an environmental issue affecting your community. Share what you learned about that issue with your patrol or troop. Tell what, if anything, could be done by you or your community to address the concern.
 ```
+
 ```
 9c	On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results.
 ```
+
 ```
 9d	Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
 ```
@@ -122,9 +125,11 @@
 ```
 11	Demonstrate scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life.
 ```
+
 ```
 12	While working toward the First Class rank, and after completing Second Class requirement 11, participate in a Scoutmaster conference.
 ```
+
 ```
 13	Successfully complete your board of review for the First Class rank.
 ```

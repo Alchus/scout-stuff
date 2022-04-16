@@ -4,9 +4,16 @@
 ```
 1a	Since joining Boy Scouts, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.	
 ```
+**Camp-outs**
+
+**Activities**
+- Hiking - Apr 10 2022
+
+
 ```
 1b	Explain the principles of Leave No Trace, and tell how you practiced them on a campout or outing. This outing must be different from the one used for Tenderfoot requirement 1c.	
 ```
+
 ```
 1c	On one of these campouts, select a location for your patrol site and recommend it to your patrol leader, senior patrol leader, or troop guide. Explain what factors you should consider when choosing a patrol site and where to pitch a tent.	
 ```
@@ -34,10 +41,21 @@
 ```
 2f	Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot.
 ```
+* ✅ 4/13/2022  
+
+ The sheet bend (here, tied with an additional backup knot) is a simple way to link the ends of two different ropes together. It is ideal for joining ropes of unequal size and/or stiffness. The thicker or stiffer rope makes only a single bight which the smaller rope passes through.
+
+ For ropes of similar thickness and stiffness, the double fisherman's bend or figure-eight bend are more secure but not quite as easy to tie.
+
+
+![Sheet Bend](./media/images/second-class-2f-sheet-bend.jpg)
 
 ```
 2g	Demonstrate tying the bowline knot. Describe a situation in which you would use this knot.	
 ```
+* ✅ 4/13/2022  
+
+A bowline is an easy-to-tie loop that is tied using one end of a rope. I use the double bowline to tie in to a harness when climbing outdoors because a bowline is easier to untie than a figure-eight loop after shock loading (though this very fact makes the figure-eight loop preferred by some climbers). 
 
 ![Bowline](./media/images/second-class-2g-bowline.jpg)
 
