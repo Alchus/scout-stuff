@@ -28,8 +28,8 @@ On 30 days:
 | April 13 2022 | 16        |*Crunches only*| ✓     |
 | April 14 2022 | 20        |    14      |    ✓     |  7:41 w/ Coop Poop
 | April 15 2022 | 21        |    12      |    ✓     |
-| April 16 2022 |           |            |          |
-| April 17 2022 |           |            |          |
+| April 16 2022 | 20        |    18      |    ✓     |
+| April 17 2022 | 17        |    21      |    ✓     |
 | April 18 2022 |           |            |          |
 | April 19 2022 |           |            |          |
 | April 20 2022 |           |            |          |

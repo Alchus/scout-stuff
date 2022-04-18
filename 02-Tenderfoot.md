@@ -36,6 +36,9 @@
 ```
 3d	Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.
 ```
+
+![Knife and Hatchet](./media/images/tenderfoot-3d-knife-hatchet.jpg)
+
 ##	First Aid and Nature
 ```
 4a	Show first aid for the following:
