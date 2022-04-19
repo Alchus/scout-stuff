@@ -126,6 +126,26 @@ Topical corticosteroids (e.g. Cortisone) can be used to treat the allergic conta
 ```
 4c	Tell what you can do on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b.
 ```
+* ✅ 4/18/2022
+
+Cuts and Scrapes: general caution around sharp objects and terrain
+
+Blisters: use well-fitting socks and shoes
+
+Burns: Fire Hot! Bad! No Touchy!
+
+Bug bites: use insect repellent; tuck pants into socks
+
+Venomous snakebites: watch for likely hiding spots, spread brush with a hiking stick
+
+Frostbite: Use adequate warm layers, stay dry
+
+Sunburn: Sunscreen, hat, long-sleeve shirts
+
+Choking: For me, chew thorouhly!
+
+*Toxicodendron* family: avoid the bushes; minimize touching of pant legs and shoes
+
 ```
 4d	Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used.
 ```
@@ -243,6 +263,9 @@ See [this sheet](./physical-activity/Tenderfoot.md) for details.
 ```
 10	While working toward Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.
 ```
+* ✅ 4/17/2022
+
+Discussed project progress with Dad 4/17
 
 ```
 11	Successfully complete your board of review for the Tenderfoot rank.
