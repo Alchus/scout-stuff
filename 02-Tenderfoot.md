@@ -4,22 +4,65 @@
 ```
 1a.	Present yourself to your leader prepared for an overnight camping trip. Show the personal and camping gear you will use. Show the right way to pack and carry it.
 ```
+* ✅ 4/24/2022
+
+For my trip camping in Prentice Cooper, I packed everything into my large backpack:  
+* Tent
+* Sleeping Bag
+* Sleeping pad
+* Pillow
+* Camp stove, cook pot, lighter, silverware
+* Food, water
+* Water filter bottle
+* First aid kit
+* Knife
+* Flashlight
+* Toilet kit
+* Trash bags
+
+I packed the backpack with the sleeping items on bottom, heavy things in the middle, and food on top.
+
+![](./media/images/tenderfoot-1a-backpack.jpg)
 
 ```
 1b.	Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch.
 ```
 
+* ✅ 4/24/2022
+
+![](./activities/media/2022-04-22-Campsite.jpg)
+
+
 ```
 1c	Tell how you practiced the Outdoor Code on a campout or outing.
 ```
+
+* ✅ 4/24/2022
+
+This campsite was cluttered with trash, so I spent the morning cleaning up not only my trash, but two garbage bags of trash from around the campsite areas. 
+
+I had a small fire in the elevated fire ring, with water nearby. 
 
 ## Cooking
 ```
 2a.	On the campout, assist in preparing one of the meals. Tell why it is important for each patrol member to share in meal preparation and cleanup.
 ```
+* ✅ 4/24/2022
+
+I cooked dinner of cheesy rice and sausage over my camp stove. I want my meals when camping to be something to look forward to, not just be something edible.
+
+In a group of adults camping, everyone should contribute to the tasks the group needs done, but that doesn't necessarily mean each person has to cook-- pitching tents, gathering firewood and water, cleaning up, or even supervising kids are meaningful contributions. 
+
 ```
 2b.	While on a campout, demonstrate the appropriate method of safely cleaning items used to prepare, serve, and eat a meal.
 ```
+
+* ✅ 4/24/2022
+
+To clean my cookware and dishes, I had my assistant Cooper remove any leftover food, then rinsed each with clean water. Lastly, I heated all the titanium cookware and silverware over my camp stove to dry and sterilize it.
+
+*Something I've learned: do not make oatmeal in a cook pot! It will burn at the bottom and is very difficult to remove. Instead, boil the water alone, then add the boiling water and oatmeal to a bowl.*
+
 ```
 2c.	Explain the importance of eating together as a patrol.
 ```
@@ -27,12 +70,30 @@
 ```
 3a	Demonstrate a practical use of the square knot.
 ```
+* ✅ 4/24/2022  
+
+I used a square knot to tie a loop to make it easier to pull up my tent stakes.
+![](./media/images/tenderfoot-3a-square-knot.jpg)
+
 ```
 3b	Demonstrate a practical use of two half-hitches.
 ```
+* ✅ 4/24/2022  
+
+When tying up my tent footprint to dry, I used two half hitches to tie one end of the line to a tree.
+
+![](./media/images/tenderfoot-3b-double-half-hitch.jpg)
+
+
 ```
 3c	Demonstrate a practical use of the taut line hitch.
 ```
+* ✅ 4/24/2022  
+
+To tie up the other end of my tent footprint, I used a taut-line hitch (orange rope) to tension the line.
+
+![](./media/images/tenderfoot-3c-taut-line.jpg)
+
 ```
 3d	Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.
 ```
@@ -241,7 +302,13 @@ See [this sheet](./physical-activity/Tenderfoot.md) for details.
 ```
 7b	Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto.
 ```
+* ✅ 4/24/2022  
 
+The campsites and paring lot at Prentice Cooper were cluttered with trash, so I picked up two bags of trash and brought them home to throw away.
+
+This "Good Turn" is a way to preserve the site's beauty for future visitors. It demonstrates the virtues of helpfulness cleanliness, and reverence that Scouting is founded on.
+
+![](./media/images/tenderfoot-7b-cleanup.jpg)
 
 ## Leadership
 ```

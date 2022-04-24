@@ -10,7 +10,7 @@
 ## Plan
 On 30 days:
 * Do as many push-ups as possible in 60 seconds
-* Do as many sit-ups as posisble in 60 seconds
+* Do as many sit-ups as possible in 60 seconds
 * Stretch for at least 5 minutes, including hamstring/back stretches  
 
  On 5 days:
@@ -31,12 +31,12 @@ On 30 days:
 | April 16 2022 | 20        |    18      |    ✓     |
 | April 17 2022 | 17        |    21      |    ✓     |
 | April 18 2022 | 20        |    20      |    ✓     |
-| April 19 2022 |           |            |          |
-| April 20 2022 |           |            |          |
-| April 21 2022 |           |            |          |
-| April 22 2022 |           |            |          |
-| April 23 2022 |           |            |          |
-| April 24 2022 |           |            |          |
+| April 19 2022 | 17        |*Crunches only*|    ✓  |
+| April 20 2022 | 25        |      17    |    ✓     |
+| April 21 2022 |  22         |     20     |   ✓       | 6:23
+| April 22 2022 |     20      |   16         |  -        |
+| April 23 2022 |     -      |    -        |    ✓      |
+| April 24 2022 |     21      |  24          |     ✓     |
 | April 25 2022 |           |            |          |
 | April 26 2022 |           |            |          |
 | April 27 2022 |           |            |          |

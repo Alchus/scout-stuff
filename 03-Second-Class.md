@@ -5,6 +5,7 @@
 1a	Since joining Boy Scouts, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.	
 ```
 **Camp-outs**
+- Prentice Cooper Apr 24 2022
 
 **Activities**
 - Hiking - Apr 10 2022
@@ -32,6 +33,16 @@ While hiking on Apr 10, we hiked on an established trail and packed all our snac
 1c	On one of these campouts, select a location for your patrol site and recommend it to your patrol leader, senior patrol leader, or troop guide. Explain what factors you should consider when choosing a patrol site and where to pitch a tent.	
 ```
 
+* ✅ 4/24/2022  
+
+I chose this campsite because:  
+* It has an established fire ring
+* It has a flat tent pad with packed ground and little vegetation, minimizing the risk of damaging the tent or crushing plants.
+* The rocks are useful for sitting and cooking.
+* It is close to a trail to a stream where water can be collected and filtered.
+
+![](./activities/media/2022-04-22-Campsite.jpg)
+
 ##	COOKING and TOOLS	
 ```
 2a	Explain when it is appropriate to use a fire for cooking or other purposes and when it would not be appropriate to do so.	
@@ -51,15 +62,18 @@ On public lands or without landowner permission otherwise, campfires should only
 ```
 2d	Explain when it is appropriate to use a lightweight stove and when it is appropriate to use a propane stove. Set up a lightweight stove or propane stove. Unless prohibited by local fire restrictions, light the stove. Describe the safety procedures for using these types of stoves.	
 ```
+* ✅ 4/24/2022  
 
 Lightweight stove and large propane stoves are both acceptable in many situations, but lightweight stoves are clearly preferable for backpacking or hike-in camping. Large camp stoves are often fueled by propane, and they can offer easier cooking, especially for skillets and large pots. Butane may not vaporize and ignite at temperatures below freezing or at altitudes above 5000' - Propane or propane/butane mixed fuel is required in these situations.
 
 To operate one of these stoves, set them up on a solid, flat surface away from combustible materials. Turn on the gas to low, then light the stove. If the stove does not ignite quickly, turn off the gas and let the fuel disperse before trying again. Be careful, it's hot! Let the stove cool completely before packing it up.
 
+I cooked dinner and breakfast over my stove on Apr 23-24
 
 ```
 2e	On one campout, plan and cook one hot breakfast or lunch, selecting foods from MyPlate or the current USDA nutritional model. Explain the importance of good nutrition. Demonstrate how to transport, store, and prepare the foods you selected.	
 ```
+
 
 ```
 2f	Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot.
@@ -117,8 +131,8 @@ From left to right:
 
 ```
 3d	Demonstrate how to find directions during the day and at night without using a compass or an electronic device.	
-##	NATURE	
 ```
+##	NATURE	
 
 ```
 4	Identify or show evidence of at least ten kinds of wild animals (such as birds, mammals, reptiles, fish, mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken.
