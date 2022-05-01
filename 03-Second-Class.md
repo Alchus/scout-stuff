@@ -10,6 +10,7 @@
 **Activities**
 - Hiking - Apr 10 2022
 - Hiking - Apr 17 2022
+- Hiking - Apr 30 2022
 
 
 ```
@@ -122,16 +123,31 @@ From left to right:
 ```
 3b	Using a compass and map together, take a five-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian.
 ```
+* ✅ 4/30/2022 
+
+![Map](./activities/media/2022-04-30-Walls-of-Jericho-Route.png)
+
+![Canyon](./activities/media/2022-04-30-Walls-of-Jericho-Canyon.jpg)
+
+*I met a group of Scouts from Troop 14 while having lunch in the basin!*
 
 
 ```
 3c	Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them.	
 ```
+* ✅ 4/30/2022 
+
+* Joint injuries - ankle, knee, hip, etc.: Step carefully and at a safe pace for the terrain. Don't carry an overloaded pack. Use a walking stick if helpful.
+
+* Water: Don't cross fast-moving water that's more than knee-deep. When crossing even shallow water, use a walking stick to improve balance. When wading through water, unbuckle backpack straps. 
 
 
 ```
 3d	Demonstrate how to find directions during the day and at night without using a compass or an electronic device.	
 ```
+
+*Plan: Use the analog watch method and the North star method. The methods that rely on the movement, rather than momentary state, of celestial bodies is much less practical to use.*
+
 ##	NATURE	
 
 ```
@@ -142,6 +158,21 @@ From left to right:
 ```
 5a	Tell what precautions must be taken for a safe swim.	
 ```
+* ✅ 4/30/2022 
+
+These are the rules for swimming with youth:
+* Qualified supervision of minors is required
+* Swimmers must be healthy enough for swimming
+* The water must be safe, clean, warm enough, etc.
+* Lifeguards are required.
+* An additional lookout is required
+* Youth should swim in areas and activities appropriate for their ability level.
+* Use a buddy system
+* Maintain Discipline
+
+*I, however, get to disregard all of these rules and replace them with simply "use good judgement." I will swim alone in conditions where I'm confident in my own safety.*
+
+
 ```
 5b	Demonstrate your ability to pass the BSA beginner test. Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.3	
 ```
@@ -202,12 +233,9 @@ From left to right:
 
 I have been tracking my monthly budget for a number of years now, mostly to keep control of how much I spend on discretionary shopping, entertainment, and meals. As a regular-full-time salaried employee, my income is largely inelastic, but how much of that I keep to save and invest is definitely in my control.
 
-In this case, I'm saving up for my trip to go backpacking in the grand canyon in October. Each month, $100 of my shopping budget, plus any leftover, gets transferred to the savings. Currently I have $471 saved.
+My Phiaton wireless headphones are several years old and still functional, but they don't fit very comfortably anymore because the foam padding has collapsed. I'm considering replacing them. I anticipate this could cost somewhere between $100 to $250, depending on what I buy.
 
-The cost of the guided tour is $1,700. I'll need to save about $250 for each of the next six months.
-
-*The total cost of the trip will certainly be higher once flights, hotels, tips, and equipment purchases are taken into account. Some of those costs will go into my combined discretionary & shopping budget, while the flights and hotels will likely be un-budgeted and come directly from my savings*
-
+I'll earmark $100 per month from my general discretionary budget to a separate line item for saving for large electronics purchases, such as new headphones.
 
 ```
 8d	At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose.
