@@ -11,85 +11,110 @@
 ```
 2a	Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.
 ```
+
 ```
 2b	Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more boys. Secure the ingredients.
 ```
+
 ```
 2c	Show which pans, utensils, and other gear will be needed to cook and serve these meals.
 ```
+
 ```
 2d	Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, and other rubbish.
 ```
+
 ```
 2e	On one campout, serve as cook. Supervise your assistant(s) in using a stove or building a cooking fire. Prepare the breakfast, lunch, and dinner planned in First Class requirement 2a. Supervise the cleanup.
 ```
+
 ## TOOLS
 ```
 3a	Discuss when you should and should not use lashings.
 ```
+
 ```
 3b	Demonstrate tying the timber hitch and clove hitch.
 ```
+
 ```
 3c	Demonstrate tying the square, shear, and diagonal lashings by joining two or more poles or staves together.
 ```
+
 ```
 3d	Use lashings to make a useful camp gadget or structure.
 ```
+
 ##	NAVIGATION
 ```
 4a	Using a map and compass, complete an orienteering course that covers at least one mile and requires measuring the height and/or width of designated items (tree, tower, canyon, ditch, etc.)
 ```
+
 ```
 4b	Demonstrate how to use a handheld GPS unit, GPS app on a smartphone or other electronic navigation system. Use a GPS to find your current location, a destination of your choice, and the route you will take to get there. Follow that route to arrive at your destination.
 ```
+
 ##	NATURE
 ```
 5a	Identify or show evidence of at least 10 kinds of native plants found in your local area or campsite location. You may show evidence by identifying fallen leaves or fallen fruit that you find in the field, or as part of a collection you have made, or by photographs you have taken.
 ```
+
 ```
 5b	Identify two ways to obtain a weather forecast for an upcoming activity. Explain why weather forecasts are important when planning for an event.
 ```
+
 ```
 5c	Describe at least three natural indicators of impending hazardous weather, the potential dangerous events that might result from such weather conditions, and the appropriate actions to take.
 ```
+
 ```
 5d	Describe extreme weather conditions you might encounter in the outdoors in your local geographic area. Discuss how you would determine ahead of time the potential risk of these types of weather dangers, alternative planning considerations to avoid such risks, and how you would prepare for and respond to those weather conditions.
 ```
+
 ##	AQUATICS
 ```
 6a	Successfully complete the BSA swimmer test.
 ```
+
 ```
 6b	Tell what precautions must be taken for a safe trip afloat.
 ```
+
 ```
 6c	Identify the basic parts of a canoe, kayak, or other boat. Identify the parts of a paddle or an oar.
 ```
+
 ```
 6d	Describe proper body positioning in a watercraft, depending on the type and size of the vessel. Explain the importance of proper body position in the boat.
 ```
+
 ```
 6e	With a helper and a practice victim, show a line rescue both as tender and rescuer. (The practice victim should be approximately 30 feet from shore in deep water.)5
 ```
+
 ##	FIRST AID AND EMERGENCY PREPAREDNESS
 ```
 7a	Demonstrate bandages for a sprained ankle and for injuries on the head, the upper arm, and the collarbone.
 ```
+
 ```
 7b	By yourself and with a partner, show how to:
 	Transport a person from a smoke-filled room
 	Transport for at least 25 yards a person with a sprained ankle.
 ```
+
 ```
 7c	Tell the five most common signals of a heart attack. Explain the steps (procedures) in cardiopulmonary resuscitation (CPR).
 ```
+
 ```
 7d	Tell what utility services exist in your home or meeting place. Describe potential hazards associated with these utilities, and tell how to respond in emergency situations.
 ```
+
 ```
 7e	Develop an emergency action plan for your home that includes what to do in case of fire, storm, power outage, and water outage.
 ```
+
 ```
 7f	Explain how to obtain potable water in an emergency.
 ```
@@ -98,9 +123,11 @@
 ```
 8a	After completing Second Class requirement 7a, be physically active at least 30 minutes every day for five days a week for four weeks. Keep track of your activities.
 ```
+
 ```
 8b	Share your challenges and successes in completing First Class requirement 8a. Set a goal for continuing to include physical activity as part of your daily life.
 ```
+
 ##	CITIZENSHIP
 ```
 9a	Visit and discuss with a selected individual approved by your leader (for example, an elected official, judge, attorney, civil servant, principal, or teacher) the constitutional rights and obligations of a U.S. citizen.

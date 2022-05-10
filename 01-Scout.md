@@ -213,7 +213,7 @@ Whipping is used on twisted-fiber organic ropes, but I've demonstrated the techn
 * ✅ 4/9/2022  
 
 * Keep knives in good condition: sharp, rust-free, and with smooth folding and unfolding.  
-* Before passing a knife to another person, fold it if possible. Otherwise, pinch the blade by the sides, with the cutting edge facing up and away from the palm, and offer it handle-first. The reciever should verbally confirm control of the knife before moving it, such as by simply saying "thank you."
+* Before passing a knife to another person, fold it if possible. Otherwise, pinch the blade by the sides, with the cutting edge facing up and away from the palm, and offer it handle-first. The receiver should verbally confirm control of the knife before moving it, such as by simply saying "thank you."
 * Avoid cutting towards any part of the body, especially fingers.
 * Keep a safe distance from others while using a knife.
 * Don't throw knives.

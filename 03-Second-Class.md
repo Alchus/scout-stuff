@@ -4,8 +4,12 @@
 ```
 1a	Since joining Boy Scouts, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.	
 ```
+
+* ✅ 5/09/2022
+
 **Camp-outs**
-- Prentice Cooper Apr 24 2022
+- Prentice Cooper - Apr 24 2022
+- Mineral Bluff, GA - May 5-9 2022
 
 **Activities**
 - Hiking - Apr 10 2022
@@ -74,7 +78,15 @@ I cooked dinner and breakfast over my stove on Apr 23-24
 ```
 2e	On one campout, plan and cook one hot breakfast or lunch, selecting foods from MyPlate or the current USDA nutritional model. Explain the importance of good nutrition. Demonstrate how to transport, store, and prepare the foods you selected.	
 ```
+* ✅ 5/08/2022 
 
+![](./activities/media/2022-05-08-Cooking-Sausages.jpg)
+
+I cooked eggs and sausages for breakfast. Both are high in protein, which is good for providing energy for activity throughout the day.
+
+The sausages and eggs were refrigerated with ice in a cooler. *I could instead have brought unwashed eggs, which don't require refrigeration.*
+
+*I didn't anticipate how the cooler turned into a mosh-pit of ice, water, and food. Fortunately, these sausages were fully sealed, but in the future I'll need to isolate raw meat from all other food.*
 
 ```
 2f	Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot.
@@ -110,8 +122,8 @@ Based on where you are, magnetic north may not exactly match geographic north. H
 ![Map symbols](./media/images/second-class-2a-map.jpg)
 
 From left to right:
-* "AT" in a white diamond: Appalalachian Trail blaze
-* Green square: shelter that accomodates horses
+* "AT" in a white diamond: Appalachian Trail blaze
+* Green square: shelter that accommodates horses
 * Same symbol in black square: shelter that does not allow horses.
 * (purple tent) Campsite for backpackers
 * Waterfall

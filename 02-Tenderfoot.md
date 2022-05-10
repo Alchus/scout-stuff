@@ -66,6 +66,14 @@ To clean my cookware and dishes, I had my assistant Cooper remove any leftover f
 ```
 2c.	Explain the importance of eating together as a patrol.
 ```
+
+* ✅ 5/9/2022
+
+In troops that use patrols, eating meals together is a key way to keep a patrol in regular communication and cooperation.
+
+In more general terms, I think that it's worth the effort to make mealtimes in the outdoors something to look forward to, rather than always trading flavor for convenience. Cooking with a group makes it practical to take on more labor-intensive recipes, and eating together is a wonderful break from a long day outdoors.
+
+
 ## Tools
 ```
 3a	Demonstrate a practical use of the square knot.
@@ -97,8 +105,14 @@ To tie up the other end of my tent footprint, I used a taut-line hitch (orange r
 ```
 3d	Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.
 ```
+* ✅ 5/9/2022
 
 ![Knife and Hatchet](./media/images/tenderfoot-3d-knife-hatchet.jpg)
+
+Knives and axes/hatchets can be sharpened with a stone or file, but the technique is mostly picked up by feel. Saw blades are almost always replaced rather than sharpened.
+
+Knives work best for small objects or fine cuts. Saws or axes can be used to cut standing or fallen trees, but a hatchet or machete is often optimal for cutting small limbs. Splitting logs is best done with an axe or hatchet.
+
 
 ##	First Aid and Nature
 ```
@@ -203,7 +217,7 @@ Frostbite: Use adequate warm layers, stay dry
 
 Sunburn: Sunscreen, hat, long-sleeve shirts
 
-Choking: For me, chew thorouhly!
+Choking: For me, chew thoroughly!
 
 *Toxicodendron* family: avoid the bushes; minimize touching of pant legs and shoes
 
@@ -221,7 +235,7 @@ This is an ultra-light first aid kid designed primarily for day hikes or one-nig
 * Alcohol prep pads: for cleaning wounds before bandaging.
 * Neosporin: topical antibiotic ointment for preventing wound infection. 
 * Tweezers: for removing thorns or ticks, etc.
-* Ibuprofen: multi-purpose anti-inflamatory. Helps manage aches and pains.
+* Ibuprofen: multi-purpose anti-inflammatory. Helps manage aches and pains.
 * Bleed-stop: Coagulant powder to help staunch bleeding of major wounds.
 
 *The earplugs and floss picks are not first-aid items, but I keep them with my first-aid supplies*
@@ -232,7 +246,7 @@ This is an ultra-light first aid kid designed primarily for day hikes or one-nig
 ```
 * ✅ 4/12/2022  
 
-Hiking, espicially in back country, has some risk of injury. When hiking alone, I don't have anyone to assist or seek help if I am injured.
+Hiking, especially in back country, has some risk of injury. When hiking alone, I don't have anyone to assist or seek help if I am injured.
 
 On April 10, I hiked in a group of 3; we stayed together as a group, in part to assist Alejandro with the difficult terrain.
 
@@ -242,10 +256,10 @@ On April 10, I hiked in a group of 3; we stayed together as a group, in part to 
 * ✅ 4/12/2022  
 
 
-	* **S**tay Calm  
-	* **T**hink - recall the route, consult map & compass
-	* **O**bserve - Look for footprints, landmarks, trail markers, etc.
-	* **P**lan - if moving on is a the best option, do so carefully to avoid getting further lost. Mark the path to allow backtracking.
+	* **Stay** Calm  
+	* **Think** - recall the route, consult map & compass
+	* **Observe** - Look for footprints, landmarks, trail markers, etc.
+	* **Plan** - if moving on is a the best option, do so carefully to avoid getting further lost. Mark the path to allow backtracking.
 ```
 5c	Explain the rules of safe hiking, both on the highway and cross-country, during the day and at night.
 ```
@@ -315,11 +329,14 @@ This "Good Turn" is a way to preserve the site's beauty for future visitors. It 
 8	Describe the steps in Scouting's Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot.
 ```
 
+* ✅ 5/6/2022  
+
 **Explain** what you will teach and talk through the steps .  
 **Demonstrate** the skill and explain again.  
 **Guide** the learner as they attempt the skill themselves one or more times.  
 **Enable** the learner to use the skill successfully on their own.
 
+I taught John how to tie a square knot, and the difference between it and a granny knot.
 
 
 ## Scout Spirit

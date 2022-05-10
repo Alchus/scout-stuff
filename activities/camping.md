@@ -14,3 +14,13 @@ Then I went camping at the Prentice Cooper primitive campsite and just barely go
 There was a lot of trash around the site, so I picked up two garbage bags of trash.
 
 ![](../media/images/second-class-7b-cleanup.jpg)
+
+
+## May 5-9 2022
+
+The long-awaited camping trip with Lee, Phillip, Dee, and John. We relaxed on a North Georgia mountaintop for 4 nights.
+
+![](./media/2022-05-06-Group-Photo.jpg)
+![](./media/2022-05-06-Me-And-John.jpg)
+![](./media/2022-05-07-Fajitas.jpg)
+![](./media/2022-05-08-Cooking-Sausages.jpg)

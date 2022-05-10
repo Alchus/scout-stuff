@@ -1,6 +1,6 @@
 # Thomas does Scout stuff
 
-* [Scout Rank Requirements](./01-Scout.md)
+* ✅ [Scout Rank Requirements](./01-Scout.md)
 * [Tenderfoot Rank Requirements](./02-Tenderfoot.md)
 * [Second Class Rank Requirements](./03-Second-Class.md)
 * [First Class Rank Requirements](./04-First-Class.md)
@@ -18,7 +18,7 @@ Because scouting is organized as a group activity, I'll have to adapt some of th
 
 For example, a solo camping trip or hike can count as a "troop activity". For knowledge and skill requirements, I can demonstrate them using my own words in text, photos, a video clip,  etc.  
 
-I acknowledge that the value of demonstrating knowledge and skills in a group setting comes from the opportunity for correction from someone more experienced. To avoid gaps due to ignorance, I will learn from at least two sources (e.g. handbook + 1 other source) for each item, and document what that source was.  
+I acknowledge that the value of demonstrating knowledge and skills in a group setting comes from the opportunity for correction from someone more experienced. To avoid gaps due to ignorance, I will reference a reliable source for each item, rather than my own best guess.
 
 For requirements that are essentially tied to scouting or group activity, I can fill them by participating in other groups of adults where that is feasible, by doing something myself, or a combination of the two. 
 
