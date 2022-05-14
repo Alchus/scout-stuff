@@ -17,12 +17,12 @@ On 30 days:
  * Repeat the 1-mile run
 
  ## Progress
-*Note to self: delete any rows for missed days*
+
 | Date          | Push-ups  | Sit-Ups    |  Stretch |  Mile Run |
 |---------------|-----------|------------|----------|-----------|
 | April 8 2022  | 17        |    12      |    ✓     |
 | April 9 2022  | 19        |    9       |    ✓     |
-| April 10 2022 | 15        |    18*     |    ✓     |
+| April 10 2022 | 15        |    18     |    ✓     |
 | April 11 2022 | 19        |*Crunches only*| ✓     |
 | April 12 2022 | 21        |    13      |    ✓     |
 | April 13 2022 | 16        |*Crunches only*| ✓     |
@@ -43,12 +43,16 @@ On 30 days:
 | April 28 2022 | 20        |   19       |    ✓     | 7:04
 | April 29 2022 | 21        |  26        |    -     |
 | April 30 2022 | *hiking*  | *hiking*   |   ✓      |
-| May 1 2022    |    -      |    -       |      -   |
 | May 2 2022    |  25       |  19        |     ✓    |
 | May 3 2022    |  21       |    20      |   ✓      |
-| May 4 2022    |           |            |          |
-| May 5 2022    |           |            |          |
-| May 6 2022    |           |            |          |
-| May 7 2022    |           |            |          |
+| May 9 2022    |  26       |   29       |   ✓      |
+| May 10 2022   |  20       |  22        |   ✓      |
+| May 11 2022   |  25       |  20        |   ✓      |
+| May 12 2022   |   22      | 25         |   ✓      | 7:59
+| May 13 2022   |   27      |    18      |   ✓      |
+| May 14 2022   |   31      |   27       |   ✓      | 6:09
 
-
+## End
+| Date         | Push-ups  | Sit-Ups    |  Mile Run |  Stretch |
+|--------------|-----------|------------|-----------|----------|
+| May 14 2022  | 31        |    27      |  6:09     | -10 in   |

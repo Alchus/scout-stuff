@@ -295,6 +295,9 @@ On April 10, I hiked in a group of 3; we stayed together as a group, in part to 
 ```
 6b	Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days.
 ```
+
+* ✅ 5/14/2022  
+
 Plan:
 
 On at least 30 days, practice sit-ups, push-ups, and stretching.
@@ -305,12 +308,34 @@ See [this sheet](./physical-activity/Tenderfoot.md) for details.
 
 ```						
 6c	Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.		
-  ```
+```
+
+* ✅ 5/14/2022  
+
+| Date         | Push-ups  | Sit-Ups    |  Mile Run |  Stretch |
+|--------------|-----------|------------|-----------|----------|
+| May 14 2022  | 31        |    27      |  6:09     | -10 in   |
+
+*Not only did I improve in each activity, I set a personal best in each one today!*
 
 ## 	Citizenship
 ```
 7a	Demonstrate how to display, raise, lower, and fold the U.S. flag.
 ```
+
+* ✅ 5/14/2022
+
+Folded Flag
+
+![](./media/images/tenderfoot-7a-folded-flag.jpg)
+
+Flag hanging vertically, with the star field in the upper-left corner
+
+![](./media/images/tenderfoot-7a-hanging-flag.jpg)
+
+To raise a flag up a flagpole, one person holds the flag, while another attaches it to the rope, then raises it. The person who held the flag steps back and salutes the flag until it is tied off at the top.
+
+To lower a flag, the process is the same in reverse: one person lowers the flag while another collects it without allowing it to touch the ground. Afterwords, they can work together to fold the flag.
 
 
 ```
@@ -343,6 +368,27 @@ I taught John how to tie a square knot, and the difference between it and a gran
 ```
 9	Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life.
 ```
+* ✅ 5/11/2022  
+
+* **Obedient**
+
+As an adult who lives independently, there aren't a huge number of junctions for me to choose between breaking or following rules. When I'm outdoors, though, there are often signs or rules that protect the environment from overuse, such as trail closures, parking restrictions, and permit requirements. More than in the past, I follow these rules even when I could reasonably ignore them. For example, we took a long way around the Falls Branch Falls trail, rather than a closed-but-navigable trail that was more direct. At Stone Fort, I paid for the $10 permit when the rest of my group didn't, despite knowing that enforcement was very unlikely.
+
+* **Cheerful**
+
+I've been able to keep a good attitude recently, especially at work, where I'm leading a difficult project that's far behind schedule. I don't let my frustrations become "salt" or spill over onto my co-workers. 
+
+On our Georgia camping trip, there was rain on three of the four days, but I was committed to staying positive about it. We just adjusted our plans around the chance of rain and had a great time anyway.
+
+* **Clean**
+
+I live near a public city park, and I've made a point over the past month to pick up trash and litter whenever I walk my dog through it. On camp-outs and hikes, I pack out all my trash and as much of other people's trash as I can carry.
+
+* **Courteous**
+
+I've made a deliberate effort recently to interact respectfully with the people around me who appear to be experiencing homelessness. When I walk my dog through the nearby park, I greet and talk with anyone who appears interested in engaging, regardless of their situation. I can tell that this is uncommon, and many people are happy to have a few minutes to pet Cooper.
+
+Recently, a man was sleeping outside of my apartment building, and I asked him if he needed any help. I ended up buying him lunch. I haven't seen him again, but I hope he's doing well.
 
 ```
 10	While working toward Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.

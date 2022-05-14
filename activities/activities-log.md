@@ -10,3 +10,7 @@ April 17
 Visit to Smoky Mountains National Park with Alejandro R, Peter, and Kaya. Hiked Clingman's Dome trail, approx 1.1 miles + various shorter side-trails.
 
 ![](./media/2022-04-17-Smoky-Mountains.jpg)
+
+May 14
+
+Drove out to Prentice Cooper Primitive Campsite and picked up trash from the campsite, trails, and nearby trail-head parking lot. I filled my trunk, plus another bag in my back seat. 1 hour of service work (excluding travel).
