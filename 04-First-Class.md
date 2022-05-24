@@ -4,6 +4,7 @@
 ```
 1a	Since joining Boy Scouts, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.
 ```
+
 ```
 1b	Explain each of the principles of Tread Lightly! and tell how you practiced them on a campout or outing. This outing must be different from the ones used for Tenderfoot requirement 1c and Second Class requirement 1b.
 ```
@@ -12,9 +13,52 @@
 2a	Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.
 ```
 
+* ✅ 5/15/2022
+
+*For the Blue Ridge, GA campout:*
+| Breakfast |
+|---|
+| Pancakes, Eggs, Bacon |
+
+
+| Lunch |
+|---|
+| Hot Dogs and Brats |
+
+| Dinner |
+|---|
+| Fajita Tacos |
+
 ```
 2b	Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more boys. Secure the ingredients.
 ```
+* ✅ 5/15/2022
+
+| Food | Quantity | Cost |
+| ---- | -------- | ---- |
+| Pancake Mix | 1 Box | $4 |
+| Syrup | 1 bottle (24 oz) | $3.12 | 
+| Butter | 1 stick | $1| 
+| Eggs| 1 Dozen | $4.65 for 18 | 
+| Bacon | 0.5 lb | $4.88 | 
+| | | | 
+| Hot Dogs | 8 | $4.22 | 
+| Brats | 5 | $5.48 | 
+| Hot Dog Buns | 8 | $4.14 for 16 | 
+| Ketchup | 1 bottle | $3 | 
+| Dijon Mustard | 1 bottle | $3 | 
+| | | | 
+| Skirt Steak | 2 lb | $9.61 | 
+| Onions | 2 | $0.84| 
+| Bell Peppers| 6 large| $7.16 | 
+| Lime | 2 | 1.44| 
+| Tomatoes | 1.5 lb | $2.01 | 
+| Jalepenos | 2 | $0.23| 
+| Teriyaki Marinade | 1 bottle (16 oz)| $3.37 | 
+| Tortillas | 10+ | $3.63| 
+| Shredded Cheese| 1 cup| $5 for 2 cups| 
+| Grilling Foil | 1 roll | $4.58 | 
+| | | | 
 
 ```
 2c	Show which pans, utensils, and other gear will be needed to cook and serve these meals.

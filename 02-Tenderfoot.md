@@ -400,3 +400,5 @@ Discussed project progress with Dad 4/17
 ```
 11	Successfully complete your board of review for the Tenderfoot rank.
 ```
+
+* ✅ 5/18/2022 

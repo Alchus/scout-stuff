@@ -60,9 +60,17 @@ On public lands or without landowner permission otherwise, campfires should only
 2b	Use the tools listed in Tenderfoot requirement 3d to prepare tinder, kindling, and fuel wood for a cooking fire.	
 ```
 
+* ✅ 5/13/2022
+
+![](./media/images/second-class-2b-firewood.jpg)
+
 ```
 2c	At an approved outdoor location and time, use the tinder, kindling, and fuel wood from Second Class requirement 2b to demonstrate how to build a fire. Unless prohibited by local fire restrictions, light the fire. After allowing the flames to burn safely for at least two minutes, safely extinguish the flames with minimal impact to the fire site.	
 ```
+
+* ✅ 5/13/2022
+
+![](./media/images/second-class-2c-campfire.jpg)
 
 ```
 2d	Explain when it is appropriate to use a lightweight stove and when it is appropriate to use a propane stove. Set up a lightweight stove or propane stove. Unless prohibited by local fire restrictions, light the stove. Describe the safety procedures for using these types of stoves.	
@@ -115,11 +123,11 @@ A bowline is an easy-to-tie loop that is tied using one end of a rope. I use the
 ```
 * ✅ 4/18/2022 
 
-![Compass](./media/images/second-class-2a-compass.jpg)
+![Compass](./media/images/second-class-3a-compass.jpg)
 
 Based on where you are, magnetic north may not exactly match geographic north. High-quality trail maps may include the declination to adjust a compass to true north (pictured: 6 degrees west)
 
-![Map symbols](./media/images/second-class-2a-map.jpg)
+![Map symbols](./media/images/second-class-3a-map.jpg)
 
 From left to right:
 * "AT" in a white diamond: Appalachian Trail blaze
@@ -186,7 +194,7 @@ These are the rules for swimming with youth:
 
 
 ```
-5b	Demonstrate your ability to pass the BSA beginner test. Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.3	
+5b	Demonstrate your ability to pass the BSA beginner test. Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.	
 ```
 
 ```
@@ -196,6 +204,7 @@ These are the rules for swimming with youth:
 ```
 5d	Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim.	
 ```
+
 ##	FIRST AID	
 ```
 6a	Demonstrate first aid for the following:	
@@ -257,6 +266,8 @@ I'll earmark $100 per month from my general discretionary budget to a separate l
 ```
 8e	Participate in two hours of service through one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout Oath.	
 ```
+
+* Creek Cleanup - *To document*
 
 ##	LEADERSHIP	
 ```
