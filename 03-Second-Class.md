@@ -216,6 +216,58 @@ These are the rules for swimming with youth:
 	Shock	
 	Heatstroke, dehydration, hypothermia, and hyperventilation	
 ```
+* ✅ 5/27/2022 
+
+* **Object in Eye**
+
+Don't the eye. Blink rapidly, or flush with clean water. Another person can help keep the eyelids open. If the object can't be removed, get medical attention.
+
+* **Bite of a warm blooded animal**
+
+Wash with soap and water. Flush with clean water for several minutes. Control any bleeding, then bandage. Seek medical attention.
+
+* **Puncture wounds**
+
+For small objects such as thorns or splinters, remove them and wash the skin around the wound, but don't flush with water. Bandage with antibiotic ointment.
+
+For large objects, such as anything larger than a small nail, don't remove the object until after seeking medical care.
+
+* **Serious burns**
+
+For second-degree burns, clean the wound with clean water, but don't apply any other substances. Once dry, cover with clean cloth or gauze. 
+
+For third degree burns, keep the wound dry. Cover with clean cloth or gauze and seek medical attention. Keep the victim calm and watch for signs of shock.
+
+* **Heat exhaustion**
+
+Rest in a cool, shady place. Cool down by removing excess clothing or wet cloths. Drink plenty of water. If symptoms don't improve quickly, get medical help.
+
+*I was able to help my friend Ale recover from heat exhaustion when we hiked out to Foster Falls.*
+
+* **Shock**
+
+Have the person lay down with their legs elevated. If someone is unconscious and breathing, but severe internal injuries are not likely, have them lay on their side. Keep the victim warm.
+
+* **Heatstroke**
+
+Heatstroke has symptoms like heat exhaustion, but also has elevated pulse, shallow breathing, confusion, disorientation, or unconsciousness, vomiting, or seizures.
+
+Get emergency medical attention while treating with the same methods as for heat exhaustion. Use ice packs or a shallow body of water, if available. Don't give fluids to an unconscious person.
+
+* **Dehydration**
+
+Treating dehydration is easy: drink more water.
+
+Signs of dehydration include thirst, dark urine, exhaustion, dry skin and lips, nausea, fainting, loss of appetite, headaches, cramps, confusion and/or dizziness.
+
+* **Hypothermia**
+
+Get the person warm and dry- Use blankets, jackets, and sleeping bags. If the person is able, have them drink warm liquids, such as soup. Avoid caffeinated drinks.
+
+* **Hyperventilation**
+
+Encourage the victim to stay calm and to take take slow, shallow breaths- one breath every five seconds.
+
 ```
 6b	Show what to do for "hurry" cases of stopped breathing, stroke, severe bleeding, and ingested poisoning.	
 ```

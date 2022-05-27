@@ -185,6 +185,10 @@
 9c	On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results.
 ```
 
+![](./media/images/first-class-9c-before.jpg)
+
+This isn't a huge amount of trash for 3 people on a day hike, but the bottles and cans are unnecessary. On my next trips, I'll stick to gatorade powder rather than canned drinks.
+
 ```
 9d	Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
 ```
