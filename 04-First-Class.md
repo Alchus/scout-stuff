@@ -120,6 +120,11 @@
 6a	Successfully complete the BSA swimmer test.
 ```
 
+* ✅ 5/28/2022 
+
+Completed while swimming with Alejandro at Red Bank public pool.
+
+
 ```
 6b	Tell what precautions must be taken for a safe trip afloat.
 ```
@@ -185,17 +190,31 @@
 9c	On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results.
 ```
 
+* ✅ 6/1/2022 
+
 ![](./media/images/first-class-9c-before.jpg)
 
 This isn't a huge amount of trash for 3 people on a day hike, but the bottles and cans are unnecessary. On my next trips, I'll stick to gatorade powder rather than canned drinks.
 
+![](./media/images/first-class-9c-after.jpg)
+
+On the second weekend in a row climbing, I had less trash to pack out. I didn't take any canned or bottled drinks.
+
+
 ```
 9d	Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
 ```
+
+- Cemetary flags (1.5 hours)
+
 ##	LEADERSHIP
 ```
 10	Tell someone who is eligible to join Boy Scouts, or an inactive Boy Scout, about your Scouting activities. Invite him to an outing, activity, service project or meeting. Tell him how to join, or encourage the inactive Boy Scout to become active. Share your efforts with your Scoutmaster or other adult leader.
 ```
+* ✅ 5/28/2022 
+
+I discussed this project with Alejandro R on 5/28. He has previously come on a service project with me: the creek cleanup. He seemed unenthusiastic about the prospect of taking a project like this himself.
+
 ##	SCOUT SPIRIT
 ```
 11	Demonstrate scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life.

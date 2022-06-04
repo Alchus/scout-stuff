@@ -197,13 +197,33 @@ These are the rules for swimming with youth:
 5b	Demonstrate your ability to pass the BSA beginner test. Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.	
 ```
 
+* ✅ 5/28/2022 
+
+Completed while swimming with Alejandro at Red Bank public pool.
+
+*The nachos were delicious.*
+
 ```
 5c	Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects.
 ```
+* ✅ 6/03/2022   
+
+_
+
+* Reaching (body): Reach into the water from the edge or shallows.  
+* Reaching (object): Use a stick, paddle, or similar object.
+* Throwing (object): Throw something that floats, such as a buoy, life jacket, life jacket, paddle, or cooler.
+* Throwing (rope): Coil rope in an outward-facing coil, then throw one end of it past the victim
 
 ```
 5d	Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim.	
 ```
+
+* ✅ 6/03/2022 
+
+Drowning people will impulsively grab a rescue swimmer, which can endanger both of them. Reaching and throwing rescues don't present the same risk to the rescuer. 
+
+When making a swimming rescue, the rescue swimmer should bring a flotation device to the victim.
 
 ##	FIRST AID	
 ```
@@ -271,9 +291,41 @@ Encourage the victim to stay calm and to take take slow, shallow breaths- one br
 ```
 6b	Show what to do for "hurry" cases of stopped breathing, stroke, severe bleeding, and ingested poisoning.	
 ```
+
+* ✅ 6/03/2022 
+
+* Stopped breathing: Direct a specific person to call 911. Use an AED if one is available. Give 30 chest compressions then 2 rescue breaths; alternating until help arrives, the victim shows signs of life, or exhaustion. If head/neck/spine injury is suspected, do not give rescue breaths.
+
+* Stroke: Signs of stroke include sudden, otherwise-unexplained onset of any of the following: numbness or weakness of a part of the body, confusion, dizziness, loss of coordination or balance, difficulty speaking or understanding, or headache. If the person cannot move their face, arms, or speak clearly, call 911.
+
+* Severe bleeding: Direct a specific person to call 911. Cover the wound with cloth and apply pressure. Bind with a pressure wrapping tha does not cut off circulation. Add additional bandages as needed; don't remove soaked bandages.
+
+* Poisoning - swallowed: Call 911 or poison control. Treat for shock; perform CPR if breathing stops. Rolling the person onto their side to prevent vomit or saliva from threatening choking. Don't attempt to induce vomiting.
+
+* Poisoning - inhaled: Ensure the area is safe for those providing assistance. Move the victim to fresh air, then seek medical help. Check for breathing and preform CPR if breathing stops.
+
 ```
 6c	Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.	
 ```
+* ✅ 6/03/2022 
+
+* **Object in Eye** - Don't follow closely behind another hiker who is pushing through overhanging brush - it can swing back into your face.
+
+* **Bite of a warm blooded animal** - Leave the animals alone! Most of the risk of a bite is caused by an animal that feels threatened or trapped.
+
+* **Puncture wounds** - Wear sturdy footwear, especially in areas that may have broken glass or nails.
+
+* **Serious burns** - Fire bad, no touchy! Move carefully around campfires, and keep the area around fire rings clear of tripping hazards.
+
+* **Dehydration, Heat exhaustion and Heatstroke** - Pack and drink enough water
+
+* **Hypothermia** - Stay warm and dry in cold weather.
+
+* **Severe bleeding** - Be careful with sharp tools. With knives, only cut away from your body.
+
+* **Poisoning** - Don't eat anything you find outdoors. (And besides, leave no trace!)
+
+
 ```
 6d	Explain what to do in case of accidents that require emergency response in the home and the backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.	
 ```
@@ -294,7 +346,15 @@ Encourage the victim to stay calm and to take take slow, shallow breaths- one br
 ##	CITIZENSHIP	
 ```
 8a	Participate in a flag ceremony for your school, religious institution, chartered organization, community, or Scouting activity.	
-```
+``` 
+
+As a volunteer alongside dozens of Scouts from across the region, I placed flags at servicemembers' graves at Chattanooga National Cemetary. 
+
+*As I anticipated when I started this project, satisfying this requirement involves a slight bend for the sake of feasibility.*
+
+![](./media/images/second-class-8a-flags.jpg)
+
+TODO: Describe/demonstrate a flag ceremony.
 
 ```
 8b	Explain what respect is due the flag of the United States.	

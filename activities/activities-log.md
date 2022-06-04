@@ -30,3 +30,21 @@ May 22
 
 Hike up Ritchie hollow trail to Pot Point loop, then to Natural Bridge and back. Saw the waterfall along the way. Approximately 7 miles hiked.
 ![](./media/2022-05-22-Ritchie-Hollow-waterfall.jpg)
+
+May 28
+
+Volunteered at Chattanooga National Cemetary placing flags at the gravestones of military service members alongside a large number of Scouts. 1.5 hours of volunteer service.
+
+![](./media/2022-05-28-Cemetery-flags.jpg)
+
+May 29
+
+Rock climbing and rappelling at Foster Falls with Schane and Stacy. I climbed 4 routes, including *Ruben*, *Saturated*, and a very tall route that offers a view over the entire valley. We also rappelled down the falls pool wall again.
+
+![](./media/2022-05-30-Foster-Falls.jpg)
+
+May 30
+
+More rock climbing, at Denny Cove with Stacy this time. I saw a turtle (tortoise?) on the trail. Weather was beautiful. 
+
+![](./media/2022-05-31-Denny-Cove.jpg)

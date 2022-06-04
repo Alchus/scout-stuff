@@ -14,3 +14,10 @@
 5/23 Walk to downtown and back
 5/25 Walk down Frazier street
 5/27 Walk to Freddy's apartment on Cherry street and back
+5/28 Flag placement
+5/29 Rock climbing - Foster Falls
+
+----
+5/30 Rock climbing - Denny Cove
+6/1 Rock climbing, gym
+6/3 Walk to Publix
