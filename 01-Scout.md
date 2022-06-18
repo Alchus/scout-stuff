@@ -37,13 +37,13 @@ I regularly pick up litter, trash, and abandoned dog waste when I go on hikes or
 
 ![Sign](./media/images/scout-1c-sign.jpg)  
 ![Salute](./media/images/scout-1c-salute.jpg)  
-![Handshake](./media/images/scout-1c-handshake.jpg)  
+
 
 The Sign is used when reciting the Scout Oath or Law; or to signify a request for quiet attention from a group of scouts.
 
 The Salute is used when honoring a flag, or similar ceremonial context, while in a Scout uniform.  
 
-The handshake is used as a greeting between scouts, especially if both are in uniform.
+The left-handed handshake is used as a greeting between scouts, especially if both are in uniform.
 
 *I anticipate that I will use these three gestures very rarely as a "Lone Wolf"*
 

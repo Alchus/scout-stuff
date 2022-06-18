@@ -21,3 +21,8 @@
 5/30 Rock climbing - Denny Cove
 6/1 Rock climbing, gym
 6/3 Walk to Publix
+
+----
+6/13 Walk through Coolidge Park
+6/14 Walk through Coolidge Park
+6/15 Walk to Publix

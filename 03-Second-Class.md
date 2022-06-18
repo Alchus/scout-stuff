@@ -363,6 +363,9 @@ TODO: Describe/demonstrate a flag ceremony.
 ```
 8c	With your parents or guardian, decide on an amount of money that you would like to earn, based on the cost of a specific item you would like to purchase. Develop a written plan to earn the amount agreed upon and follow that plan; it is acceptable to make changes to your plan along the way. Discuss any changes made to your original plan and whether you met your goal.	
 ```
+* ✅ 6/17/2022 
+
+### Plan
 
 I have been tracking my monthly budget for a number of years now, mostly to keep control of how much I spend on discretionary shopping, entertainment, and meals. As a regular-full-time salaried employee, my income is largely inelastic, but how much of that I keep to save and invest is definitely in my control.
 
@@ -370,16 +373,37 @@ My Phiaton wireless headphones are several years old and still functional, but t
 
 I'll earmark $100 per month from my general discretionary budget to a separate line item for saving for large electronics purchases, such as new headphones.
 
+
+
 ```
 8d	At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose.
 ```
+* ✅ 6/17/2022 
 
+Here are the options I considered for new noise-cancelling bluetooth headphones:
+
+### Comparison
+| Model | Vendor | Price |
+| --- | --- | ---|
+| Sennheiser HD 450BT | Amazon.com | $150 |
+| Bose QuietComfort 45 | Bose | $279 |
+| Jabra Elite 45h | Amazon.com |  $99 
+
+### Results
+
+After saving $200 from two months' budget, I'm here in the Atlanta airport wearing my old headhones, and I've realized they can hold out a little bit longer. I'm going to use the funds I've saved towards the flights for my trip to the grand canyon this fall.
 
 ```
 8e	Participate in two hours of service through one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout Oath.	
 ```
 
-* Creek Cleanup - *To document*
+* ✅ 5/15/2022 
+
+I helped at a creek cleanup for Wild Trails. Using paddleboards, Alejandro and I together collected about a dozen large bags of trash. We found a lifelike mannequin head (with hair!) that looked startlingly grisly floating in the creek.
+
+A project like this fulfills the Oath's duty to the country by protecting the health and safety of this urban water system, and also the promise to help others in contributing to a recurring group effort.
+
+![](./activities/media/2022-05-15-creek-cleanup.jpg)
 
 ##	LEADERSHIP	
 ```
