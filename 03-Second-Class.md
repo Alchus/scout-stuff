@@ -174,6 +174,46 @@ From left to right:
 4	Identify or show evidence of at least ten kinds of wild animals (such as birds, mammals, reptiles, fish, mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken.
 ```
 
+### Apheloria virgineinsis
+
+![](./media/images/second-class-4/apheloria-virginiensis.jpg)
+
+### Cottontail rabbit
+
+![](./media/images/second-class-4/cottontail.jpg)
+
+### A dead fish
+
+![](./media/images/second-class-4/dead-fish.jpg)
+
+### White-tail deer
+
+![](./media/images/second-class-4/deer.jpg)
+
+### Duck
+
+![](./media/images/second-class-4/duck.jpg)
+
+### Eastern box turtle
+
+![](./media/images/second-class-4/eastern-box-turtle.jpg)
+
+### Red-wing blackbird
+
+![](./media/images/second-class-4/redwing-blackbird.jpg)
+
+### Ring-neck snake
+
+![](./media/images/second-class-4/ringneck-snake.jpg)
+
+### A Toad
+
+![](./media/images/second-class-4/toad.jpg)
+
+### Woodpecker
+
+![](./media/images/second-class-4/woodpecker.jpg)
+
 ##	AQUATICS	
 ```
 5a	Tell what precautions must be taken for a safe swim.	
