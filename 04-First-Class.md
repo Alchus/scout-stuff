@@ -29,6 +29,10 @@
 |---|
 | Fajita Tacos |
 
+
+This menu has foods that are high in protein, making them a good source of energy for an active weekend outdoors. The fajita tacos include a lot of vegetables. *However, the bacon and brats are very high-fat meats, making them a delicious but treacherously easy way to oversupply calories*
+
+
 ```
 2b	Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more boys. Secure the ingredients.
 ```
@@ -93,6 +97,16 @@
 ```
 4a	Using a map and compass, complete an orienteering course that covers at least one mile and requires measuring the height and/or width of designated items (tree, tower, canyon, ditch, etc.)
 ```
+
+* ✅ 6/04/2022 
+
+I completed the permanent course at Red Top Mountain state park in 1 hour, 13 minutes.
+
+As far as I can tell, measuring objects is not part of most orienteering courses. Instead I measured the length of the course, which I estimate to be 2,200 meters.
+
+*This was surprisingly fun! The course got more challenging as it went, and I missed markers 8 and 10 and had to backtrack to find them.*
+
+![](./media/images/first-class-4a-orienteering-map.jpg)
 
 ```
 4b	Demonstrate how to use a handheld GPS unit, GPS app on a smartphone or other electronic navigation system. Use a GPS to find your current location, a destination of your choice, and the route you will take to get there. Follow that route to arrive at your destination.
@@ -185,6 +199,12 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 9b	Investigate an environmental issue affecting your community. Share what you learned about that issue with your patrol or troop. Tell what, if anything, could be done by you or your community to address the concern.
 ```
+
+* ✅ 6/04/2022 
+
+I discussed the city of Chattanooga's recycling program with the director of Green Steps, a local environmental nonprofit. I learned that most of the city's mixed-stream recycling is sent directly to the landfill, and the city pays more money per-ton of waste to process recyclables, despite them ending up in the same place.
+
+Green Steps is involved in a project to raise awareness about the inefficacy of single-stream recycling and to encourage people to separate cans and bottles (which can be recycled) from all other plastics, which aren't recycled.
 
 ```
 9c	On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results.
