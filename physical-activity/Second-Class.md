@@ -31,3 +31,6 @@
 
 ---
 
+6/24 Hiking at Devil's Lake, WI  
+6/25 Kayaking in Oconomowoc with Mom  
+6/26 Walk around Coolidge Park with Cooper  

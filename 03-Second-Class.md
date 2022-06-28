@@ -369,9 +369,37 @@ Encourage the victim to stay calm and to take take slow, shallow breaths- one br
 ```
 6d	Explain what to do in case of accidents that require emergency response in the home and the backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.	
 ```
+
+* ✅ 6/27/2022 
+
+An emergency situation is when immediate action is required to protect life and health.
+
+When responding to emergency, the best response is to stay calm, triage, plan, send for help, and to take the steps required to address the most important issues first.
+
+These kinds of information are most useful for first responders:
+
+* Nature of emergency
+* Location and contact information
+* Description of any injuries
+* When the injuries occurred
+* Any treatments already given
+* What resources are available on the scene of the emergency, including equipment, people, and specialized skills.
+* That resources are needed 
+
+
 ```
 6e	Tell how you should respond if you come upon the scene of a vehicular accident.	
 ```
+* ✅ 6/27/2022 
+
+Before providing first aid, make the scene as safe as possible:
+ 
+ * Isolate the vehicle from traffic using cones, flares, or another vehicle.
+ * Turn off the engine.
+ * Secure the parking brake if the vehicle is on an incline.
+
+If the scene cannot be made safe, don't endanger yourself attempting to provide aid.
+
 ## FITNESS	
 ```
 7a	After competing Tenderfoot requirement 6c, be physically active at least 30 minutes a day for five days a week for four weeks. Keep track of your activities.	
@@ -399,6 +427,21 @@ TODO: Describe/demonstrate a flag ceremony.
 ```
 8b	Explain what respect is due the flag of the United States.	
 ```
+
+* ✅ 6/27/2022 
+  
+----
+
+* Remove hat and stand at attention with right hand over heart when the flag is being raised or lowered, is passing you, you pass it, and during the national anthem. When in an appropriate uniform (such as a Scouting uniform), salute instead.
+
+* When flying the American flag with other flags, if should be on its own flagpole, at least as tall as any other, furthest to the viewer's left or in front. The American flag is raised first and lowered last. 
+
+* The flag should be properly lit when flown overnight. Otherwise, it should be flown between sunrise and sunset.
+
+* When worn on a uniform, the flag is placed on the right sleeve near the shoulder.
+
+* Don't display flags that are faded or tattered. Instead, retire them by burning them to ash in a fire.
+
 
 ```
 8c	With your parents or guardian, decide on an amount of money that you would like to earn, based on the cost of a specific item you would like to purchase. Develop a written plan to earn the amount agreed upon and follow that plan; it is acceptable to make changes to your plan along the way. Discuss any changes made to your original plan and whether you met your goal.	
@@ -449,10 +492,30 @@ A project like this fulfills the Oath's duty to the country by protecting the he
 ```
 9a	Explain the three R's of personal safety and protection.	
 ```
+* ✅ 6/27/2022 
+
+Scouting trains its youth to **recognize** abuse, **respond** in the moment to protect themselves, and **report** it to adults.
+
+*For me, this applies somewhat differently. On occasions I may interact with kids, I should be aware of best practices for preventing abuse, and should take action in response to information that may indicate abuse is occurring.*
+
 
 ```
 9b	Describe bullying; tell what the appropriate response is to someone who is bullying you or another person.	
 ```
+
+* ✅ 6/27/2022 
+
+Bullying can take many forms, including verbal, social, and physical. It can occur one-on-one, in groups, or online.
+
+Possible signs of bullying include symptoms of depression, avoidant social isolation or social anxiety, anger, or carrying a weapon for self-defence.
+
+Adults have a responsibility to intervene to protect kids from bullying. The appropriate response strategies vary by situation, but have three main components:
+
+* Communicate to the victim(s) that the bullying is not their fault and that you will act to prevent it from continuing.  
+* Communicate to the bullies that their actions are not acceptable, are dishonorable, and may lead to consequences for them.
+* Act to prevent further bullying. This can range from increased supervision to completely removing the bully from the situation.
+
+Adults should communicate information about bullying to parents and other adults in the situation.
 
 ##	SCOUT SPIRIT	
 ```
@@ -462,6 +525,10 @@ A project like this fulfills the Oath's duty to the country by protecting the he
 ```
 11	While working toward the Second Class rank, and after completing Tenderfoot requirement 10, participate in a Scoutmaster conference.	
 ```
+
+* ✅ 6/26/2022
+
+Discussed project with Dad on 6/26. He suggests an online video or class for requirement 7c.
 
 ```
 12	Successfully complete your board of review for the Second Class rank.	
