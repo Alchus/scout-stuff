@@ -165,8 +165,36 @@ From left to right:
 ```
 3d	Demonstrate how to find directions during the day and at night without using a compass or an electronic device.	
 ```
+* ✅ 7/15/2022 
 
-*Plan: Use the analog watch method and the North star method. The methods that rely on the movement, rather than momentary state, of celestial bodies is much less practical to use.*
+*All of this applies to middle latitudes of the northern hemisphere only.*
+
+**Day**:
+
+The sun sets in the west and rises in the east.
+
+To determine direction during midday, hold an analog watch with the hour hand facing the sun. The vector halfway between 12:00 and the hour hand points south. In this example, south is at approximately 2:30. During daylight savings time, use the angle bisector from 1:00 instead.
+
+![](./media/images/second-class-3d-watch.jpg)
+
+**Night**
+
+* Stars method:
+
+Locate the Big Dipper or Little Dipper in the sky, then find Polaris, the North Star. It is the handle of the little dipper, or approximately five "scoops" from the big dipper.
+
+![](./media/images/second-class-3d-polaris.jpg)
+
+* Moon method
+
+Like the sun, the moon rises in the East and sets in the West, passing through the Southern sky. The full moon rises at sunset, but time of moonrise cycles through the day with the phase of the moon.
+
+It the moon is high in the sky, it is generally in the south quadrant of the sky. To determine if a non-full moon low in the sky is rising or setting, look at the angle of the line between the poles of the moon (i.e. the points of a crescent moon). That line will intersect the horizon in the south quadrant of the sky. 
+
+This method is not very precise without correction for latitude and season, but can be helpful to provide a rough sense of direction. If celestial navigation is expected to be required for a trip (say, in an area without landmarks and with unmapped magnetic interference), it's possible to prepare in advance charts that will specify the sun and moon's position in the sky at each hour of the trip's dates.
+
+![](./media/images/second-class-3d-moon.jpg)
+
 
 ##	NATURE	
 
@@ -404,17 +432,36 @@ If the scene cannot be made safe, don't endanger yourself attempting to provide 
 ```
 7a	After competing Tenderfoot requirement 6c, be physically active at least 30 minutes a day for five days a week for four weeks. Keep track of your activities.	
 ```
+* ✅ 6/28/2022 
+
+See [this page](./physical-activity/Second-Class.md) for the activity log
+
 ```
 7b	Share your challenges and successes in completing Second Class requirement 7a. Set a goal for continuing to include physical activity as part of your daily life and develop a plan for doing so.	
 ```
+
+* ✅ 7/3/2022 
+
+It took me a span of six weeks to finish this requirement, mainly because of the disruption to my schedule caused by traveling to Texas and Wisconsin on back-to-back weeks. I typically get outdoors most weekends, but don't consistently get exercise on weeknights.
+
+As I continue tracking weekly activity for First Class, I want to focus on getting active on weeknights more consistently, such as by getting out to to the gym twice a week rather than only once.
+
 ```
 7c	Participate in a school, community, or troop program on the dangers of using drugs, alcohol, and tobacco, and other practices that could be harmful to your health. Discuss your participation in the program with your family, and explain the dangers of substance addictions. Report to your Scoutmaster or other adult leader in your troop about which parts of the Scout Oath and Law relate to what you learned.	
 ```
+* ✅ 7/15/2022 
+
+I've had a series of conversations with a close friend of mine about his experience of falling into and recovering from addiction to various stimulant drugs. He described a familiar situation in which drug use led to the contracting of his social circle until his only close associates were other drug abusers. We also discussed how psychedelic drugs can permanently change a person's mind, even with only a single use.
+
+I connect this to the concept of **goal-content integrity** as highlighted by Nick Bostrom in his writings about the behavior of rational super-intelligent agents. He suggests that goal-content integrity is something that a rational agent would consider to be as important as self-preservation. If something can change what your goals are, it's rational to avoid that thing, *even if you believe you would be happier after changing goals*. This, to me, is part of what it means to stay "mentally awake." 
+
 
 ##	CITIZENSHIP	
 ```
 8a	Participate in a flag ceremony for your school, religious institution, chartered organization, community, or Scouting activity.	
 ``` 
+
+* ✅ 5/28/2022 
 
 As a volunteer alongside dozens of Scouts from across the region, I placed flags at servicemembers' graves at Chattanooga National Cemetary. 
 
@@ -422,7 +469,6 @@ As a volunteer alongside dozens of Scouts from across the region, I placed flags
 
 ![](./media/images/second-class-8a-flags.jpg)
 
-TODO: Describe/demonstrate a flag ceremony.
 
 ```
 8b	Explain what respect is due the flag of the United States.	
