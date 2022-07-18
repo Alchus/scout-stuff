@@ -24,3 +24,10 @@ The long-awaited camping trip with Lee, Phillip, Dee, and John. We relaxed on a 
 ![](./media/2022-05-06-Me-And-John.jpg)
 ![](./media/2022-05-07-Fajitas.jpg)
 ![](./media/2022-05-08-Cooking-Sausages.jpg)
+
+# July 9-10
+
+One-night backpacking trip out to Sawmill Camp in Savage Gulf
+
+![](./media/2022-07-09-cooper-hiking.jpg)
+![](./media/2022-07-09-sawmill-camp.jpg)

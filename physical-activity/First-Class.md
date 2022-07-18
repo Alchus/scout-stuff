@@ -13,4 +13,10 @@
 7/10 Hiked back from Sawmill Camp  
 7/13 Rock climbing at Riverside  
 7/14 Walk through Northshore and Walnut Street  
-### 7/15 Biked to Nightfall music festival  
+7/15 Biked to Nightfall music festival  
+
+---
+
+7/16 Miles of waking around the I-75 flea market  
+7/17 Rafting on the Hiwassee river
+7/18 Walk through Coolidge park with Cooper

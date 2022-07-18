@@ -54,7 +54,7 @@ I chose this campsite because:
 ```
 * ✅ 4/18/2022
 
-On public lands or without landowner permission otherwise, campfires should only be made when is possible to fully minimize the impact. This means using an existing fire ring or a surface the fire won't stain; when firewood can be sourced from dead and fallen branches; and when weather conditions are not too dry or windy that campfire embers pose a risk of igniting nearby vegetation.
+On public lands or without landowner permission otherwise, campfires should only be made when is possible to fully minimize the impact. This means using an existing fire ring or a surface the fire won't stain; using firewood from dead and fallen branches; and only making fire when weather conditions are not too dry or windy that campfire embers pose a risk of igniting nearby vegetation.
 
 ```
 2b	Use the tools listed in Tenderfoot requirement 3d to prepare tinder, kindling, and fuel wood for a cooking fire.	
@@ -167,7 +167,7 @@ From left to right:
 ```
 * ✅ 7/15/2022 
 
-*All of this applies to middle latitudes of the northern hemisphere only.*
+*All of this applies to middle latitudes of the northern hemisphere, but not necessarily to arctic or tropical latitudes.*
 
 **Day**:
 
@@ -283,6 +283,8 @@ _
 * Throwing (object): Throw something that floats, such as a buoy, life jacket, life jacket, paddle, or cooler.
 * Throwing (rope): Coil rope in an outward-facing coil, then throw one end of it past the victim
 
+While rafting on the Hiwassee river, I helped a woman who had fallen out of her tube in the rapids and was unable to get back in it. I used the "reaching" methods, both with my paddle and hands, to help her stabilize herself against the current, reach an unsubmerged boulder in the middle of the river, and get back in her tube.
+
 ```
 5d	Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim.	
 ```
@@ -308,7 +310,7 @@ When making a swimming rescue, the rescue swimmer should bring a flotation devic
 
 * **Object in Eye**
 
-Don't the eye. Blink rapidly, or flush with clean water. Another person can help keep the eyelids open. If the object can't be removed, get medical attention.
+Don't rub the eye. Blink rapidly, or flush with clean water. Another person can help keep the eyelids open. If the object can't be removed, get medical attention.
 
 * **Bite of a warm blooded animal**
 
@@ -330,7 +332,7 @@ For third degree burns, keep the wound dry. Cover with clean cloth or gauze and 
 
 Rest in a cool, shady place. Cool down by removing excess clothing or wet cloths. Drink plenty of water. If symptoms don't improve quickly, get medical help.
 
-*I was able to help my friend Ale recover from heat exhaustion when we hiked out to Foster Falls.*
+*I was able to help my friend Alejandro recover from heat exhaustion when we hiked out to Foster Falls.*
 
 * **Shock**
 
@@ -344,7 +346,7 @@ Get emergency medical attention while treating with the same methods as for heat
 
 * **Dehydration**
 
-Treating dehydration is easy: drink more water.
+Treating dehydration is straightforward: drink more water.
 
 Signs of dehydration include thirst, dark urine, exhaustion, dry skin and lips, nausea, fainting, loss of appetite, headaches, cramps, confusion and/or dizziness.
 
@@ -366,7 +368,7 @@ Encourage the victim to stay calm and to take take slow, shallow breaths- one br
 
 * Stroke: Signs of stroke include sudden, otherwise-unexplained onset of any of the following: numbness or weakness of a part of the body, confusion, dizziness, loss of coordination or balance, difficulty speaking or understanding, or headache. If the person cannot move their face, arms, or speak clearly, call 911.
 
-* Severe bleeding: Direct a specific person to call 911. Cover the wound with cloth and apply pressure. Bind with a pressure wrapping tha does not cut off circulation. Add additional bandages as needed; don't remove soaked bandages.
+* Severe bleeding: Direct a specific person to call 911. Cover the wound with cloth and apply pressure. Bind with a pressure wrapping that does not cut off circulation. Add additional bandages as needed; don't remove soaked bandages. If bleeding on a limb can't be controlled with pressure, a tourniquet can be used to restrict blood flow until the wound can be bound or emergency medical help arrives. Use tourniquets only in extreme cases, as they can significant damage by restricting blood flow, and loosening a tourniquet after a long period of time can be fatal.
 
 * Poisoning - swallowed: Call 911 or poison control. Treat for shock; perform CPR if breathing stops. Rolling the person onto their side to prevent vomit or saliva from threatening choking. Don't attempt to induce vomiting.
 
@@ -426,7 +428,7 @@ Before providing first aid, make the scene as safe as possible:
  * Turn off the engine.
  * Secure the parking brake if the vehicle is on an incline.
 
-If the scene cannot be made safe, don't endanger yourself attempting to provide aid.
+Until the scene cannot be made safe, don't endanger yourself attempting to provide aid.
 
 ## FITNESS	
 ```
@@ -451,8 +453,9 @@ As I continue tracking weekly activity for First Class, I want to focus on getti
 ```
 * ✅ 7/15/2022 
 
-I've had a series of conversations with a close friend of mine about his experience of falling into and recovering from addiction to various stimulant drugs. He described a familiar situation in which drug use led to the contracting of his social circle until his only close associates were other drug abusers. We also discussed how psychedelic drugs can permanently change a person's mind, even with only a single use.
+I've had a series of conversations with a close friend of mine about his experience of falling into and recovering from addiction to various stimulant drugs. He described a familiar situation in which drug use led to the contracting of his social circle until his only close associates were other drug users. I saw this same pattern among my former coworkers at Jimmy John's, who formed a social group where the only shared interest seemed to be marijuana use. Members of these kinds of groups seem unlikely to build friendships based on trust and kindness; the most important signal of status in these circles is a person's ability to provide drugs to other people.
 
+We also discussed how some psychedelic drugs can permanently change a person's mind, even with only a single use.
 I connect this to the concept of **goal-content integrity** as highlighted by Nick Bostrom in his writings about the behavior of rational super-intelligent agents. He suggests that goal-content integrity is something that a rational agent would consider to be as important as self-preservation. If something can change what your goals are, it's rational to avoid that thing, *even if you believe you would be happier after changing goals*. This, to me, is part of what it means to stay "mentally awake." 
 
 
@@ -463,7 +466,7 @@ I connect this to the concept of **goal-content integrity** as highlighted by Ni
 
 * ✅ 5/28/2022 
 
-As a volunteer alongside dozens of Scouts from across the region, I placed flags at servicemembers' graves at Chattanooga National Cemetary. 
+As a volunteer alongside dozens of Scouts from across the region, I placed flags at service-members' graves at Chattanooga National Cemetary for Memorial Day. I placed approximately 200 flags in about one hour, which I recorded as an hour of community service.
 
 *As I anticipated when I started this project, satisfying this requirement involves a slight bend for the sake of feasibility.*
 
@@ -520,7 +523,7 @@ Here are the options I considered for new noise-cancelling bluetooth headphones:
 
 ### Results
 
-After saving $200 from two months' budget, I'm here in the Atlanta airport wearing my old headhones, and I've realized they can hold out a little bit longer. I'm going to use the funds I've saved towards the flights for my trip to the grand canyon this fall.
+After saving $200 from two months' budget, I'm here in the Atlanta airport wearing my old headphones, and I've realized they can hold out a little bit longer. I'm going to use the funds I've saved towards the flights for my trip to the grand canyon this fall.
 
 ```
 8e	Participate in two hours of service through one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout Oath.	
@@ -553,7 +556,7 @@ Scouting trains its youth to **recognize** abuse, **respond** in the moment to p
 
 Bullying can take many forms, including verbal, social, and physical. It can occur one-on-one, in groups, or online.
 
-Possible signs of bullying include symptoms of depression, avoidant social isolation or social anxiety, anger, or carrying a weapon for self-defence.
+Possible signs of bullying include symptoms of depression, avoidant social isolation or social anxiety, anger, or carrying a weapon for self-defense.
 
 Adults have a responsibility to intervene to protect kids from bullying. The appropriate response strategies vary by situation, but have three main components:
 
@@ -567,6 +570,27 @@ Adults should communicate information about bullying to parents and other adults
 ```
 10	Demonstrate scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (not to include those used for Tenderfoot requirement 9) in your everyday life.	
 ```
+* ✅ 7/18/2022 
+
+* **Helpful**
+
+While rafting on the Hiwassee river, I noticed a man in a tube attempting to paddle upstream. He was trying to reach his wife, who had overturned in her tube in some rapids. I wedged my paddle in the riverbed to hold position so she could reach us, then helped her use my raft and a nearby rock to climb back into her tube. Between my group and others groups nearby, nearly two dozen people had floated by without recognizing the situation or offering help.
+
+* **Friendly**
+
+Since moving to Chattanooga this winter, I've had a lot of success making friends. This summer, I've done activities with three different circles of friends, which has been extremely fun. This has been possible because I've been able to meet new people, and those people get to know me as someone who would be a good fit to introduce to a larger group of friends. I enjoy making these connections and meeting new people.
+
+
+* **Trustworthy** 
+
+I've been able to have a very successful business relationship with the family renting my house for the past few months, because I've been able to make good on my commitment to make any repairs the house needs.  As renters of a newly-renovated 90-year-old house, they are the ones who have to live with any nuisances in the property, but I have the responsibility to respond to their issues. I've made several minor repairs so far, including the closet rods, door thresholds, weather sealing, and pest control. 
+
+* **Thrifty**
+
+For a long time, I've actively managed my savings, budget, and investment portfolio in a disciplined way. I started saving money in 6th grade, with intentions to buy a kayak. I still enjoy kayaking (I've gone kayaking, paddleboarding, and rafting since starting this project), but I *still* haven't bought a kayak, even now that I live within walking distance of a boat launch. The reason is simply that I haven't been able to prioritize it above other things I want to spend my limited discretionary budget on. *(That may change soon, though.)*
+
+Having a disciplined budget has allowed me to save extensively, to build a financial safety net, and to invest in a house-- It's changed my life. I continue to use a limited budget to plan my expenses, such as by setting aside $200 each month of this year towards my upcoming trip to the grand canyon.
+
 
 ```
 11	While working toward the Second Class rank, and after completing Tenderfoot requirement 10, participate in a Scoutmaster conference.	
