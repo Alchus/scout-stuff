@@ -20,3 +20,8 @@
 7/16 Miles of waking around the I-75 flea market  
 7/17 Rafting on the Hiwassee river
 7/18 Walk through Coolidge park with Cooper
+7/19 Walk through Coolidge park with Cooper (again)
+7/20 Rock climbing at High Point
+
+---
+

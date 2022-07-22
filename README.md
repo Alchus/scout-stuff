@@ -2,7 +2,7 @@
 
 * ✅ [Scout Rank Requirements](./01-Scout.md)
 * ✅ [Tenderfoot Rank Requirements](./02-Tenderfoot.md)
-* [Second Class Rank Requirements](./03-Second-Class.md)
+* ✅ [Second Class Rank Requirements](./03-Second-Class.md)
 * [First Class Rank Requirements](./04-First-Class.md)
 
 ## About this project
@@ -37,3 +37,5 @@ As in scouting, nothing done before joining the troop counts. For me, nothing I'
 *There aren't a lot of outdoor skills taught in the Scout requirements; it's mostly an introduction to scouting as an organization, and its goals and principles. I didn't know the difference between a clove hitch and two half hitches (a clove hitch wraps the anchor twice), and I had forgotten how to tie a taut-line hitch.*
 
 - May 18 2022 - Finished Tenderfoot requirements / review with Dad.
+
+- July 20 2022 - Finished Second Class requirements review

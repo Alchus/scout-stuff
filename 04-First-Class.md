@@ -4,6 +4,24 @@
 ```
 1a	Since joining Boy Scouts, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.
 ```
+* ✅ 7/19/2022
+
+**Camp-outs**
+- Prentice Cooper - Apr 24 2022
+- Mineral Bluff, GA - May 5-9 2022
+- Savage Gulf - July 9-10 2022
+
+**Activities**
+- Hiking at Signal Mountain - Apr 10 2022
+- Hiking at the Smoky Mountains Apr 17 2022
+- Hiking - Apr 30 2022
+- Cookout and trash cleanup at Prentice Cooper campsite - May 14 2022
+- Creek Cleanup - May 15 2022
+- Rock climbing and rappelling at Foster Falls - May 21 2022
+- Hike Ritchie Hollow trail - May 22 2022
+- Rock climbing at Denny Cove - 30 May 2022
+
+
 
 ```
 1b	Explain each of the principles of Tread Lightly! and tell how you practiced them on a campout or outing. This outing must be different from the ones used for Tenderfoot requirement 1c and Second Class requirement 1b.
@@ -152,7 +170,8 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 
 ```
-6e	With a helper and a practice victim, show a line rescue both as tender and rescuer. (The practice victim should be approximately 30 feet from shore in deep water.)5
+6e	With a helper and a practice victim, show a line rescue both as tender and rescuer. 
+(The practice victim should be approximately 30 feet from shore in deep water.)
 ```
 
 ##	FIRST AID AND EMERGENCY PREPAREDNESS
@@ -167,7 +186,8 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 
 ```
-7c	Tell the five most common signals of a heart attack. Explain the steps (procedures) in cardiopulmonary resuscitation (CPR).
+7c	Tell the five most common signals of a heart attack.
+    Explain the steps (procedures) in cardiopulmonary resuscitation (CPR).
 ```
 
 ```

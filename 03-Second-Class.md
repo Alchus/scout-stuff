@@ -603,3 +603,4 @@ Discussed project with Dad on 6/26. He suggests an online video or class for req
 ```
 12	Successfully complete your board of review for the Second Class rank.	
 ```
+* ✅ 7/20/2022   

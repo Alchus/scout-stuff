@@ -48,3 +48,27 @@ May 30
 More rock climbing, at Denny Cove with Stacy this time. I saw a turtle (tortoise?) on the trail. Weather was beautiful. 
 
 ![](./media/2022-05-31-Denny-Cove.jpg)
+
+June 19
+
+Kayaking With Eli in Oconomowoc
+
+June 24  
+
+Hiking at Devil's Lake, WI  
+
+June 25  
+
+Kayaking in Oconomowoc with Mom  
+
+July 2   
+
+Swimming/boating on Lake Allatoona  
+
+July 4  
+
+Hiked to and swam in the Blue Hole on Rock Creek
+
+July 17  
+
+Rafting on the Hiwassee river
