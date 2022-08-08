@@ -24,4 +24,16 @@
 7/20 Rock climbing at High Point
 
 ---
+(Incomplete week)
+7/23 Hiked out to Wolf Creek Falls in Cherokee National Forest
+7/24 Hiked to Spring Creek via Rocky Bluff recreation area, Cherokee National Forest.
+7/25 Walk to Publix and backpack home with groceries
+7/27 Rock climbing at High Point
 
+---
+
+8/1 Rock climbing at High Point
+8/3 Rock climbing at High Point
+8/4 Hiking in Cloudland Canyon
+8/6 Rock climbing at Lower Leda
+8/7 Paddling out to Maclellan Island

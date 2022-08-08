@@ -164,10 +164,22 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 6c	Identify the basic parts of a canoe, kayak, or other boat. Identify the parts of a paddle or an oar.
 ```
+* ✅ 7/22/2022 
+
+![](./media/images/first-class-6c-kayak.jpg)
 
 ```
 6d	Describe proper body positioning in a watercraft, depending on the type and size of the vessel. Explain the importance of proper body position in the boat.
 ```
+
+* ✅ 7/22/2022 
+ 
+ In all paddled watercraft, keep your center of gravity low and don't lean too far to either side. This reduces the risk of falling overboard and/or capsizing.
+
+ In a canoe or kayak, sit or kneel facing forward. If only one person is paddling, they should be in the rear, to make steering easier.
+
+ In a rowboat, sit facing backwards. This enables rowing by pulling the oar, which is more efficient than pushing.
+
 
 ```
 6e	With a helper and a practice victim, show a line rescue both as tender and rescuer. 
@@ -206,6 +218,11 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 8a	After completing Second Class requirement 7a, be physically active at least 30 minutes every day for five days a week for four weeks. Keep track of your activities.
 ```
+
+* ✅ 8/08/2022 
+
+See [this log sheet](./physical-activity/First-Class.md)
+
 
 ```
 8b	Share your challenges and successes in completing First Class requirement 8a. Set a goal for continuing to include physical activity as part of your daily life.

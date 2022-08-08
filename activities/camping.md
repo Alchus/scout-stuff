@@ -31,3 +31,11 @@ One-night backpacking trip out to Sawmill Camp in Savage Gulf
 
 ![](./media/2022-07-09-cooper-hiking.jpg)
 ![](./media/2022-07-09-sawmill-camp.jpg)
+
+# July 23-24
+
+Camped out at the Wolf Creek Falls trailhead near Hot Springs, NC
+
+# August 6-7
+
+Camped out at Prentice Cooper Primitive Campsite with Freddy, Brandon, and Jimmy.
