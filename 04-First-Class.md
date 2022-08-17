@@ -26,6 +26,22 @@
 ```
 1b	Explain each of the principles of Tread Lightly! and tell how you practiced them on a campout or outing. This outing must be different from the ones used for Tenderfoot requirement 1c and Second Class requirement 1b.
 ```
+
+* ✅ 8/9/2022
+
+I paddled out to Maclellan Island, a local bird sanctuary, to hike and attempt to cross the slack line. 
+
+* **Travel Responsibly**  - I used the established boat ramp and pier on the river to avoid impacting the riverbanks. On the island, I stayed on the trails.
+
+* **Respect the rights of others** - On the river, I stayed out of the way of motorized traffic. I left the island before sunset, as the island requires advanced reservations for overnight camping stays.
+
+* **Educate Yourself** - In preparation for my previous camping trip on the island, I learned about the policies applicable to visitors, such as the requirement for camping reservations. I have the appropriate skills to safely paddle on the river, and brought the necessary gear, including water and a life preserver.
+
+* **Avoid Sensitive Areas** - As a bird sanctuary in the middle of an urban river, nearly all of Maclellan island is a sensitive area. I stayed on the trails and did not disturb any of the many birds I saw.
+
+* **Do your part** - I brought a trash bag with me to collect litter. Some litter fall from the overpass that crosses the island, but other litter was left by visitors. I collected about 5 gallons.
+
+
 ##	COOKING
 ```
 2a	Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.
@@ -86,6 +102,10 @@ This menu has foods that are high in protein, making them a good source of energ
 2c	Show which pans, utensils, and other gear will be needed to cook and serve these meals.
 ```
 
+* ✅ 8/9/2022
+
+![](./media/images/first-class-2c-utensils.jpg)
+
 ```
 2d	Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, and other rubbish.
 ```
@@ -93,6 +113,8 @@ This menu has foods that are high in protein, making them a good source of energ
 ```
 2e	On one campout, serve as cook. Supervise your assistant(s) in using a stove or building a cooking fire. Prepare the breakfast, lunch, and dinner planned in First Class requirement 2a. Supervise the cleanup.
 ```
+
+
 
 ## TOOLS
 ```
@@ -106,6 +128,11 @@ This menu has foods that are high in protein, making them a good source of energ
 ```
 3c	Demonstrate tying the square, shear, and diagonal lashings by joining two or more poles or staves together.
 ```
+* ✅ 8/17/2022
+
+![](./media/images/first-class-3c-square-lashing.jpg)
+![](./media/images/first-class-3c-shear-lashing.jpg)
+![](./media/images/first-class-3c-diagonal-lashing.jpg)
 
 ```
 3d	Use lashings to make a useful camp gadget or structure.
@@ -134,6 +161,21 @@ As far as I can tell, measuring objects is not part of most orienteering courses
 ```
 5a	Identify or show evidence of at least 10 kinds of native plants found in your local area or campsite location. You may show evidence by identifying fallen leaves or fallen fruit that you find in the field, or as part of a collection you have made, or by photographs you have taken.
 ```
+* ✅ 8/17/2022
+
+![](./media/images/first-class-plants/mushroom-1.jpg)
+![](./media/images/first-class-plants/mushroom-2.jpg)
+![](./media/images/first-class-plants/mushroom-3.jpg)
+![](./media/images/first-class-plants/mushroom-4.jpg)
+![](./media/images/first-class-plants/mushroom-5.jpg)
+![](./media/images/first-class-plants/mushroom-6.jpg)
+![](./media/images/first-class-plants/mushroom-7.jpg)
+![](./media/images/first-class-plants/mushroom-8.jpg)
+![](./media/images/first-class-plants/mushroom-9.jpg)
+![](./media/images/first-class-plants/mushroom-10.jpg)
+![](./media/images/first-class-plants/mushroom-11.jpg)
+![](./media/images/first-class-plants/mushroom-12.jpg)
+![](./media/images/first-class-plants/mushroom-13.jpg)
 
 ```
 5b	Identify two ways to obtain a weather forecast for an upcoming activity. Explain why weather forecasts are important when planning for an event.
@@ -214,6 +256,13 @@ Completed while swimming with Alejandro at Red Bank public pool.
 7f	Explain how to obtain potable water in an emergency.
 ```
 
+* ✅ 8/17/2022
+
+* **Boiling** - Filter the water through clean fabric to remove solids, then boil for at least one minute.
+* **Filtering** - Pass water through a membrane or UV filter to kill / remove biological contaminants.
+* **Chemical Purification** - Mix water with treatment tablets in accordance with printed instructions.
+
+
 ##	FITNESS
 ```
 8a	After completing Second Class requirement 7a, be physically active at least 30 minutes every day for five days a week for four weeks. Keep track of your activities.
@@ -227,6 +276,13 @@ See [this log sheet](./physical-activity/First-Class.md)
 ```
 8b	Share your challenges and successes in completing First Class requirement 8a. Set a goal for continuing to include physical activity as part of your daily life.
 ```
+
+* ✅ 8/17/2022
+
+I live a fairly active lifestyle, particularly with regular walking and hiking trips. I'm going to continue hiking difficult hikes in preparation for my trip to the Grand Canyon this fall. 
+
+However, I'm also starting a weekly routine of upper-body weight workouts on weeknights. This should help build my strength for rock climbing and paddling.
+
 
 ##	CITIZENSHIP
 ```
