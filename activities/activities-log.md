@@ -53,9 +53,14 @@ June 19
 
 Kayaking With Eli in Oconomowoc
 
+![](./media/2022-06-19-kayaking.jpg)
+
 June 24  
 
 Hiking at Devil's Lake, WI  
+
+![](./media/2022-06-24-Devils-lake.jpg)
+
 
 June 25  
 
@@ -72,3 +77,27 @@ Hiked to and swam in the Blue Hole on Rock Creek
 July 17  
 
 Rafting on the Hiwassee river
+
+July 30
+
+Hiking in Cloudland Canyon
+
+![](./media/2022-07-30-cloudland-canyon.jpg)
+
+
+Aug 6
+
+Campout at Prentice Cooper
+
+Aug 13
+
+Rafting on the Middle Ocoee
+
+![](./media/2022-08-13-rafting-ocoee.jpg)
+
+
+Aug 14
+
+Hike up Kidde trail to Signal Mountain
+
+![](./media/2022-08-14-signal-mountain.jpg)

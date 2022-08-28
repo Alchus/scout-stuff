@@ -110,9 +110,23 @@ This menu has foods that are high in protein, making them a good source of energ
 2d	Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, and other rubbish.
 ```
 
+* ✅ 8/27/2022
+
+* Perishable food must be kept cold with ice in a cooler. Keep the cooler out of direct sunlight.
+* Raw meats should be kept in fully-sealed containers. Clean any tools that touch raw meat (i.e. knives, cutting boards) to avoid cross-contamination.
+
+* Keep the campsite clean by promptly collecting trash into a trash bag. Secure the trash bag from animals overnight within a vehicle, locker, or by suspending it from a tree with a hanging line.
+
 ```
 2e	On one campout, serve as cook. Supervise your assistant(s) in using a stove or building a cooking fire. Prepare the breakfast, lunch, and dinner planned in First Class requirement 2a. Supervise the cleanup.
 ```
+
+* ✅ 8/27/2022
+
+While camping in Blue Ridge, I cooked breakfast (pancakes), lunch (sausages), and dinner (fajitas). I taught John how to cook over a campfire.
+
+![](./activities/media/2022-05-07-Fajitas.jpg)
+![](./activities/media/2022-05-08-Cooking-Sausages.jpg)
 
 
 
@@ -120,10 +134,17 @@ This menu has foods that are high in protein, making them a good source of energ
 ```
 3a	Discuss when you should and should not use lashings.
 ```
+* ✅ 8/27/2022
+Lashings are complex knots that are useful for securing wooden poles together. They can be used to assemble shelter, ladders, and other structures.
+
+Some situations where you *could* use lashings, but *shouldn't*, include cases where there aren't enough dead, fallen poles available to build with. Cutting down healthy trees for poles is incompatible with Leave No Trace.
 
 ```
 3b	Demonstrate tying the timber hitch and clove hitch.
 ```
+* ✅ 8/27/2022
+![](./media/images/first-class-3b-clove-hitch.jpg)
+![](./media/images/first-class-3b-timber-hitch.jpg)
 
 ```
 3c	Demonstrate tying the square, shear, and diagonal lashings by joining two or more poles or staves together.
@@ -157,13 +178,21 @@ As far as I can tell, measuring objects is not part of most orienteering courses
 4b	Demonstrate how to use a handheld GPS unit, GPS app on a smartphone or other electronic navigation system. Use a GPS to find your current location, a destination of your choice, and the route you will take to get there. Follow that route to arrive at your destination.
 ```
 
+* ✅ 8/27/2022
+
+This is very straightforward with the Google Maps app.
+
+![](./media/images/first-class-4b-navigation-app.jpg)
+
 ##	NATURE
 ```
 5a	Identify or show evidence of at least 10 kinds of native plants found in your local area or campsite location. You may show evidence by identifying fallen leaves or fallen fruit that you find in the field, or as part of a collection you have made, or by photographs you have taken.
 ```
 * ✅ 8/17/2022
 
+* Jackson’s Slender (Amanita jacksonii)
 ![](./media/images/first-class-plants/mushroom-1.jpg)
+* Indigo Milk Cap
 ![](./media/images/first-class-plants/mushroom-2.jpg)
 ![](./media/images/first-class-plants/mushroom-3.jpg)
 ![](./media/images/first-class-plants/mushroom-4.jpg)
@@ -173,21 +202,50 @@ As far as I can tell, measuring objects is not part of most orienteering courses
 ![](./media/images/first-class-plants/mushroom-8.jpg)
 ![](./media/images/first-class-plants/mushroom-9.jpg)
 ![](./media/images/first-class-plants/mushroom-10.jpg)
+* "Parasol" mushroom - species unknown
 ![](./media/images/first-class-plants/mushroom-11.jpg)
+
 ![](./media/images/first-class-plants/mushroom-12.jpg)
 ![](./media/images/first-class-plants/mushroom-13.jpg)
+* Possibly *Amanita flavoconia* 
+![](./media/images/first-class-plants/mushroom-14.jpg)
+* Chanterelle 
+![](./media/images/first-class-plants/mushroom-15.jpg)
 
 ```
 5b	Identify two ways to obtain a weather forecast for an upcoming activity. Explain why weather forecasts are important when planning for an event.
 ```
 
+* ✅ 8/27/2022
+
+Weather forecasts are published online, on TV, on the radio, and in newspapers.
+
+Some activities are unsuitable for some weather conditions, such as boating in intense winds or hiking in extreme heat. Many mountainous hiking trails are closed after rain, to protect the landscape from erosion. 
+
 ```
 5c	Describe at least three natural indicators of impending hazardous weather, the potential dangerous events that might result from such weather conditions, and the appropriate actions to take.
 ```
 
+* ✅ 8/27/2022
+
+* **Storms** - When low, puffy cumulus clouds swell and darken into cumulonimbus clouds, it can indicate upcoming storms with the potential for strong winds. Check that any shelter structure is prepared for wind.
+
+* **Lightning** - Often, lightning can be seen approaching. Each second between seeing lightning and heading thunder indicates one mile distance from the strike. Stay away from peaks, ridges, and isolated trees or other structures to avoid being near a strike.
+
+* **Tornadoes** - Tornadoes typically form from very dark clouds in storms with heavy rain, hail, or strong winds. Tornadoes have a distinctive roaring sound. Be prepared to take immediate shelter from possible flying debris.
+
+
 ```
 5d	Describe extreme weather conditions you might encounter in the outdoors in your local geographic area. Discuss how you would determine ahead of time the potential risk of these types of weather dangers, alternative planning considerations to avoid such risks, and how you would prepare for and respond to those weather conditions.
 ```
+* ✅ 8/28/2022
+
+Tennessee is at risk of tornadoes, especially in afternoons and evenings in April through June. When meteorologists forecast weather conditions that indicate a risk of tornado formations, they publish a tornado watch. If wind patterns that indicate formation are actually observed, they publish a tornado warning.
+
+Tornado warnings are disseminated as a emergency broadcast alert to mobile phones. 
+
+The primary danger of injury from a tornado is laceration by wind-thrown debris. Take shelter in an indoor room on the bottom floor of a building, away from any glass, until weather conditions calm down. In my case, I would move from my apartment to the leasing office downstairs.
+
 
 ##	AQUATICS
 ```
@@ -202,6 +260,16 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 6b	Tell what precautions must be taken for a safe trip afloat.
 ```
+
+✅ 8/28/2022
+
+* **Qualified Supervision** and **Discipline** - Monitor and supervise any children.
+* **Health Review** and **Swimming Ability** - Everyone should have the ability to swim in the expected water conditions.
+* **Proper Equipment**, including **Life jackets** - All equipment should be available and in good condition, including safety equipment such as rescue lines and life jackets. Wear the life jacket.
+* Use a **Buddy System** on the water
+* Share a **Plan** with others who can provide assistance if an emergency arises
+* Everyone, including passengers, should have the **Skill Proficiency** to handle the craft and respond to emergency situations.
+
 
 ```
 6c	Identify the basic parts of a canoe, kayak, or other boat. Identify the parts of a paddle or an oar.
