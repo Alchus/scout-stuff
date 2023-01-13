@@ -300,6 +300,17 @@ Completed while swimming with Alejandro at Red Bank public pool.
 ```
 7a	Demonstrate bandages for a sprained ankle and for injuries on the head, the upper arm, and the collarbone.
 ```
+* ✅ 1/13/2023
+
+* Sprained Ankle: Wrap with cloth for mild compression. If available, ice and elevate the limb to reduce swelling.
+![](./media/images/first-class-7a-ankle.jpg)
+
+* Head injury: For lacerations, compress with a clean cloth to reduce blood loss. 
+
+![](./media/images/first-class-7a-head.jpg)
+* Arm, shoulder, collarbone: Support with an arm sling or splint
+ 
+![](./media/images/first-class-7a-arm.jpg)
 
 ```
 7b	By yourself and with a partner, show how to:
@@ -311,14 +322,46 @@ Completed while swimming with Alejandro at Red Bank public pool.
 7c	Tell the five most common signals of a heart attack.
     Explain the steps (procedures) in cardiopulmonary resuscitation (CPR).
 ```
+* ✅ 1/13/2023
+
+**Signs of a heart attack**:  
+* Chest pain or pressure
+* Sweating
+* Nausea
+* Shortness of breath
+* Weakness
+
+**Steps in CPR**:
+* Call 911, or direct a specific person nearby to do so.
+* If an AED is immediately available, use it
+* Give 30 fast chest compressions
+* Tilt the victim's head back and give 2 rescue breaths
+* Repeat alternating chest compressions and rescue breaths until victim is responsive, help arrives, or exhaustion.
+
 
 ```
 7d	Tell what utility services exist in your home or meeting place. Describe potential hazards associated with these utilities, and tell how to respond in emergency situations.
 ```
+* ✅ 1/13/2023
+**Electricity**
+* Signs of uncontained electricity include exposed wiring, sparks, and heat or smoke. Electricity can be disconnected with using a breaker panel, which has a master switch at the top.
+
+**Water** 
+* Water can quickly do significant water to buildings. Some fixtures, such as sinks and toilets, have shutoff valves, typically near the floor level. Buildings will also have a shutoff valve that is usually located outside, such as a curbside underground vault. Tools (i.e. a wrench) may be required to access or operate these valves.
 
 ```
 7e	Develop an emergency action plan for your home that includes what to do in case of fire, storm, power outage, and water outage.
 ```
+* ✅ 1/13/2023
+
+* **Fire**: Evacuate the building via the West stairs.
+
+* **Severe Storm**: Shelter in the ground-floor lobby mail room or bathroom.
+
+* **Power Outage**: Retrieve flashlights from utility room. Refrain from opening the refrigerator or freezer. If required, charge phone using alkaline battery pack.
+
+* **Water outage**: Retrieve water from the nearby Tennessee river; filter it using backpacking equipment and store in water bottles. 
+
 
 ```
 7f	Explain how to obtain potable water in an emergency.
@@ -357,6 +400,10 @@ However, I'm also starting a weekly routine of upper-body weight workouts on wee
 9a	Visit and discuss with a selected individual approved by your leader (for example, an elected official, judge, attorney, civil servant, principal, or teacher) the constitutional rights and obligations of a U.S. citizen.
 ```
 
+* ✅ November 2022
+
+I discussed the 2022 elections with my father, who is an election judge. We discussed the importance of voting, especially in local races and primary elections. Also, we discussed the mechanisms and procedures that protect the integrity of our election system.
+
 ```
 9b	Investigate an environmental issue affecting your community. Share what you learned about that issue with your patrol or troop. Tell what, if anything, could be done by you or your community to address the concern.
 ```
@@ -386,7 +433,12 @@ On the second weekend in a row climbing, I had less trash to pack out. I didn't 
 9d	Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
 ```
 
-- Cemetary flags (1.5 hours)
+- Cemetery flags (1.5 hours)  
+		- I placed flags at the graves of military veterans for Memorial Day. This reflects the Scout virtue of reverence
+
+- Trash cleanup for Green steps in downtown Chattanooga (1 hour)  
+		- I cleaned up trash around downtown Chattanooga to help keep the city clean, and to protect the environment from the impacts of plastic pollution.
+
 
 ##	LEADERSHIP
 ```
