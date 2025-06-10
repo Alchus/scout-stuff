@@ -296,6 +296,14 @@ Completed while swimming with Alejandro at Red Bank public pool.
 (The practice victim should be approximately 30 feet from shore in deep water.)
 ```
 
+* ☑️ 9/21/2024
+
+I participated in a real-life swimming rescue at Es Pontas, Mallorca, Spain. The precautions about water safety I learned from this project may well have saved lives that day.
+
+![](./media/images/first-class-6e-es-pontas.jpg)
+
+
+
 ##	FIRST AID AND EMERGENCY PREPAREDNESS
 ```
 7a	Demonstrate bandages for a sprained ankle and for injuries on the head, the upper arm, and the collarbone.
@@ -432,13 +440,16 @@ On the second weekend in a row climbing, I had less trash to pack out. I didn't 
 ```
 9d	Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
 ```
+✅ 6/9/2025
 
 - Cemetery flags (1.5 hours)  
-		- I placed flags at the graves of military veterans for Memorial Day. This reflects the Scout virtue of reverence
+		- I placed flags at the graves of military veterans for Memorial Day. This reflects the Scout virtue of reverence.
 
 - Trash cleanup for Green steps in downtown Chattanooga (1 hour)  
 		- I cleaned up trash around downtown Chattanooga to help keep the city clean, and to protect the environment from the impacts of plastic pollution.
 
+- Blood donation (0.5 hour)
+		- By donating blood, I helped contribute to other people's health, safety, and medical research.
 
 ##	LEADERSHIP
 ```
@@ -452,6 +463,15 @@ I discussed this project with Alejandro R on 5/28. He has previously come on a s
 ```
 11	Demonstrate scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life.
 ```
+
+LOYAL. Show that you care about your family, friends, Scout leaders, school, and country.
+
+KIND. Treat others as you want to be treated. Never harm or kill any living thing without good reason.
+
+BRAVE. Face difficult situations even when you feel afraid. Do what you think is right despite what others might be doing or saying.
+
+REVERENT. Be reverent toward God. Be faithful in your religious duties. Respect the beliefs of others.
+
 
 ```
 12	While working toward the First Class rank, and after completing Second Class requirement 11, participate in a Scoutmaster conference.
